@@ -1,3 +1,22 @@
+
+from pathlib import Path
+import pandas as pd
+import streamlit as st
+
+DATA_DIR = Path(__file__).parent / "data"
+CSV_PATH = DATA_DIR / "final_suburb_school_zoning_bushfire.csv"
+
+@st.cache_data
+def load_csv(path: Path):
+    return pd.read_csv(path)
+
+df = load_csv(CSV_PATH)
+
+
+
+
+
+
 # app.py
 # Run with: streamlit run app.py
 

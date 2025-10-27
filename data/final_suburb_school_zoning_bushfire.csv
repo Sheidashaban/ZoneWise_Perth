@@ -1,0 +1,1046 @@
+﻿Suburb,Postcode,Level,School,approx,dist_m,dist_m_round,label,Rcodes_list,Top_rcode,Top_rcode_pct,in_bushfire_prone,pct_overlap
+Alexander Heights,6064,Primary,Dianella Heights Primary School,TRUE,3513.098431,3513,Dianella Heights Primary School (approx ~3513 m),,R20,,TRUE,33.50593439
+Alexander Heights,6064,Secondary,Carine Senior High School,TRUE,5501.851192,5502,Carine Senior High School (approx ~5502 m),,R20,,TRUE,33.50593439
+Alfred Cove,6154,Primary,Manning Primary School,TRUE,3097.689181,3098,Manning Primary School (approx ~3098 m),"R20 (47.8%), R40 (3.1%), R60 (0.4%), R50 (0.1%)",R20,47.8,TRUE,4.174329086
+Alfred Cove,6154,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (47.8%), R40 (3.1%), R60 (0.4%), R50 (0.1%)",R20,47.8,TRUE,4.174329086
+Alfred Cove,6154,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (47.8%), R40 (3.1%), R60 (0.4%), R50 (0.1%)",R20,47.8,TRUE,4.174329086
+Alkimos,6038,Secondary,Duncraig Senior High School,TRUE,18749.53381,18750,Duncraig Senior High School (approx ~18750 m),,R20,,TRUE,73.85229886
+Anketell,6167,Primary,Manning Primary School,TRUE,19543.10224,19543,Manning Primary School (approx ~19543 m),,R20,,TRUE,89.71421269
+Anketell,6167,Secondary,Leeming Senior High School,TRUE,13466.68338,13467,Leeming Senior High School (approx ~13467 m),,R20,,TRUE,89.71421269
+Applecross,6153,Primary,Como Primary School,TRUE,122.0278893,122,Como Primary School (approx ~122 m),"R15 (14.6%), R20 (4.7%), R12.5 (4.3%), R-AC0 (1.9%), R60 (1.4%), R40 (0.8%), R30 (0.3%), R40/60 (0.3%)",R15,14.6,TRUE,1.469058209
+Applecross,6153,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R15 (14.6%), R20 (4.7%), R12.5 (4.3%), R-AC0 (1.9%), R60 (1.4%), R40 (0.8%), R30 (0.3%), R40/60 (0.3%)",R15,14.6,TRUE,1.469058209
+Ardross,6153,Primary,Manning Primary School,TRUE,1182.132299,1182,Manning Primary School (approx ~1182 m),"R20 (7.6%), R40 (3.1%), R100 (0.2%), R-AC0 (0.0%)",R20,7.6,TRUE,22.30696375
+Ardross,6153,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (7.6%), R40 (3.1%), R100 (0.2%), R-AC0 (0.0%)",R20,7.6,TRUE,22.30696375
+Armadale,6112,Primary,Manning Primary School,TRUE,16628.45095,16628,Manning Primary School (approx ~16628 m),"R-AC0 (5.0%), R15/40 (3.4%), R25/60 (3.2%), R15/60 (2.6%), R40 (2.3%), R15/25 (0.0%)",R-AC0,5,TRUE,8.981285695
+Armadale,6112,Secondary,Leeming Senior High School,TRUE,12335.84485,12336,Leeming Senior High School (approx ~12336 m),"R-AC0 (5.0%), R15/40 (3.4%), R25/60 (3.2%), R15/60 (2.6%), R40 (2.3%), R15/25 (0.0%)",R-AC0,5,TRUE,8.981285695
+Ascot,6104,Primary,Maylands Peninsula Primary School,TRUE,70.18591975,70,Maylands Peninsula Primary School (approx ~70 m),,R10,,TRUE,28.32796117
+Ascot,6104,Secondary,John Forrest Secondary College,TRUE,37.51474561,38,John Forrest Secondary College (approx ~38 m),,R10,,TRUE,28.32796117
+Ashby,6065,Primary,Dianella Heights Primary School,TRUE,15534.32346,15534,Dianella Heights Primary School (approx ~15534 m),"R20 (24.0%), R40 (8.4%), R-AC4 (1.8%), R80 (0.9%), R-AC3 (0.6%), R30 (0.3%)",R20,24,TRUE,46.50380831
+Ashby,6065,Secondary,Duncraig Senior High School,TRUE,7325.591903,7326,Duncraig Senior High School (approx ~7326 m),"R20 (24.0%), R40 (8.4%), R-AC4 (1.8%), R80 (0.9%), R-AC3 (0.6%), R30 (0.3%)",R20,24,TRUE,46.50380831
+Ashendon,6111,Secondary,Willeton Senior High School,TRUE,19844.84376,19845,Willeton Senior High School (approx ~19845 m),,R2.5,,TRUE,98.41184483
+Ashfield,6054,Primary,Bayswater Primary School,TRUE,537.5913467,538,Bayswater Primary School (approx ~538 m),"R20 (20.7%), R30 (1.4%), R20/30 (0.4%)",R20,20.7,TRUE,11.28651788
+Ashfield,6054,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R20 (20.7%), R30 (1.4%), R20/30 (0.4%)",R20,20.7,TRUE,11.28651788
+Attadale,6156,Primary,Manning Primary School,TRUE,3840.072103,3840,Manning Primary School (approx ~3840 m),"R15 (12.4%), R12.5 (2.2%), R40 (1.6%), R50 (1.3%), R30/40 (1.1%), R30 (0.8%), R60 (0.6%), R25 (0.6%), R20 (0.6%), R-AC0 (0.1%)",R15,12.4,TRUE,6.199321641
+Attadale,6156,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R15 (12.4%), R12.5 (2.2%), R40 (1.6%), R50 (1.3%), R30/40 (1.1%), R30 (0.8%), R60 (0.6%), R25 (0.6%), R20 (0.6%), R-AC0 (0.1%)",R15,12.4,TRUE,6.199321641
+Attadale,6156,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R15 (12.4%), R12.5 (2.2%), R40 (1.6%), R50 (1.3%), R30/40 (1.1%), R30 (0.8%), R60 (0.6%), R25 (0.6%), R20 (0.6%), R-AC0 (0.1%)",R15,12.4,TRUE,6.199321641
+Atwell,6164,Primary,Manning Primary School,TRUE,10440.54717,10441,Manning Primary School (approx ~10441 m),"R20 (5.9%), R30 (2.7%), R5 (1.0%), R12.5 (0.5%), R40 (0.5%), R25 (0.3%), R80 (0.1%)",R20,5.9,TRUE,23.13847236
+Atwell,6164,Secondary,Leeming Senior High School,TRUE,4404.891554,4405,Leeming Senior High School (approx ~4405 m),"R20 (5.9%), R30 (2.7%), R5 (1.0%), R12.5 (0.5%), R40 (0.5%), R25 (0.3%), R80 (0.1%)",R20,5.9,TRUE,23.13847236
+Aubin Grove,6164,Primary,Manning Primary School,TRUE,13850.61673,13851,Manning Primary School (approx ~13851 m),"R20 (6.1%), R25 (3.2%), R40 (2.7%), R30 (2.0%), R60 (0.2%)",R20,6.1,TRUE,54.50381076
+Aubin Grove,6164,Secondary,Leeming Senior High School,TRUE,7770.5172,7771,Leeming Senior High School (approx ~7771 m),"R20 (6.1%), R25 (3.2%), R40 (2.7%), R30 (2.0%), R60 (0.2%)",R20,6.1,TRUE,54.50381076
+Aveley,6069,Primary,Morley Primary School,TRUE,11673.797,11674,Morley Primary School (approx ~11674 m),,R20,,TRUE,48.76089268
+Aveley,6069,Secondary,John Forrest Secondary College,TRUE,12741.83944,12742,John Forrest Secondary College (approx ~12742 m),,R20,,TRUE,48.76089268
+Balcatta,6021,Primary,Nollamara Primary School,FALSE,,,Nollamara Primary School,,R20,,TRUE,5.517026135
+Balcatta,6021,Primary,Osborne Primary School,FALSE,,,Osborne Primary School,,R20,,TRUE,5.517026135
+Balcatta,6021,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,5.517026135
+Balcatta,6021,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,5.517026135
+Balcatta,6021,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,R20,,TRUE,5.517026135
+Balga,6061,Primary,Dianella Heights Primary School,TRUE,1045.757576,1046,Dianella Heights Primary School (approx ~1046 m),,R30,,TRUE,14.04374916
+Balga,6061,Secondary,Balcatta SHS,TRUE,1929.333615,1929,"Carine SHS, Balcatta SHS (approx ~1929 m)",,R30,,TRUE,14.04374916
+Balga,6061,Secondary,Carine SHS,TRUE,1929.333615,1929,"Carine SHS, Balcatta SHS (approx ~1929 m)",,R30,,TRUE,14.04374916
+Ballajura,6066,Primary,Dianella Heights Primary School,TRUE,2427.249678,2427,Dianella Heights Primary School (approx ~2427 m),"R17.5/35 (2.1%), R15/50 (0.5%), R17.5/40 (0.4%), R17.5/25 (0.4%), R20/35 (0.4%), R15/40 (0.3%), R17.5/50 (0.1%), R15/35 (0.1%), R10/35 (0.0%)",R17.5/35,2.1,TRUE,21.42202837
+Ballajura,6066,Secondary,John Forrest Secondary College,TRUE,4205.232921,4205,John Forrest Secondary College (approx ~4205 m),"R17.5/35 (2.1%), R15/50 (0.5%), R17.5/40 (0.4%), R17.5/25 (0.4%), R20/35 (0.4%), R15/40 (0.3%), R17.5/50 (0.1%), R15/35 (0.1%), R10/35 (0.0%)",R17.5/35,2.1,TRUE,21.42202837
+Banjup,6164,Primary,Manning Primary School,TRUE,10585.43084,10585,Manning Primary School (approx ~10585 m),R25 (0.0%),R25,0,TRUE,98.46867254
+Banjup,6164,Secondary,Leeming Senior High School,TRUE,4599.271051,4599,Leeming Senior High School (approx ~4599 m),R25 (0.0%),R25,0,TRUE,98.46867254
+Banksia Grove,6031,Primary,Dianella Heights Primary School,TRUE,17815.55029,17816,Dianella Heights Primary School (approx ~17816 m),"R20 (18.0%), R30 (0.4%), R40 (0.2%)",R20,18,TRUE,41.31908712
+Banksia Grove,6031,Secondary,Duncraig Senior High School,TRUE,10201.63069,10202,Duncraig Senior High School (approx ~10202 m),"R20 (18.0%), R30 (0.4%), R40 (0.2%)",R20,18,TRUE,41.31908712
+Baskerville,6056,Primary,Morley Primary School,TRUE,13099.14929,13099,Morley Primary School (approx ~13099 m),,R2.5,,TRUE,41.58343518
+Baskerville,6056,Secondary,John Forrest Secondary College,TRUE,13349.9408,13350,John Forrest Secondary College (approx ~13350 m),,R2.5,,TRUE,41.58343518
+Bassendean,6054,Primary,Bayswater Primary School,TRUE,686.8095953,687,Bayswater Primary School (approx ~687 m),"R20 (13.2%), R20/40 (7.4%), R5 (1.2%), R25 (0.9%), R30 (0.9%), R20/30 (0.8%), R60 (0.7%), R15 (0.5%), R100 (0.5%), R160 (0.2%), R40 (0.2%), R10 (0.1%)",R20,13.2,TRUE,9.109377611
+Bassendean,6054,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R20 (13.2%), R20/40 (7.4%), R5 (1.2%), R25 (0.9%), R30 (0.9%), R20/30 (0.8%), R60 (0.7%), R15 (0.5%), R100 (0.5%), R160 (0.2%), R40 (0.2%), R10 (0.1%)",R20,13.2,TRUE,9.109377611
+Bateman,6150,Primary,Manning Primary School,TRUE,1542.367801,1542,Manning Primary School (approx ~1542 m),"R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Applecross SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Leeming SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Leeming SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Melville SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bateman,6150,Secondary,Willeton SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (13.4%), R40 (1.3%)",R20,13.4,TRUE,4.556716815
+Bayswater,6053,Primary,Bayswater PS,FALSE,,,"Maylands Peninsula PS, Bayswater PS","R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Bayswater PS,FALSE,,,"Bayswater PS, Hillcrest PS","R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Bayswater Primary School,FALSE,,,Bayswater Primary School,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Embleton Primary School,FALSE,,,Embleton Primary School,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Hillcrest PS,FALSE,,,"Bayswater PS, Hillcrest PS","R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Hillcrest Primary School,FALSE,,,Hillcrest Primary School,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Maylands Peninsula PS,FALSE,,,"Maylands Peninsula PS, Bayswater PS","R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Primary,Maylands Peninsula Primary School,FALSE,,,Maylands Peninsula Primary School,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Bayswater,6053,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R25 (7.0%), R40 (1.1%), R30 (0.5%), R-AC3 (0.3%), R60 (0.3%), R20 (0.1%), R17.5/30 (0.0%)",R25,7,TRUE,5.702243623
+Beaconsfield,6162,Primary,Manning Primary School,TRUE,8119.729147,8120,Manning Primary School (approx ~8120 m),,R20,,TRUE,5.241294947
+Beaconsfield,6162,Secondary,Frenantle College,TRUE,72.08277361,72,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~72 m)",,R20,,TRUE,5.241294947
+Beaconsfield,6162,Secondary,John Curtin College of the Arts,TRUE,72.08277361,72,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~72 m)",,R20,,TRUE,5.241294947
+Beaconsfield,6162,Secondary,Melville SHS,TRUE,72.08277361,72,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~72 m)",,R20,,TRUE,5.241294947
+Beckenham,6107,Primary,Lathlain Primary School,TRUE,3573.333426,3573,Lathlain Primary School (approx ~3573 m),"R25 (12.3%), R20 (8.2%), R17.5 (6.1%), R40 (3.0%), R60 (1.7%), R30 (1.2%), R80 (0.8%), R100 (0.5%)",R25,12.3,TRUE,31.20173438
+Beckenham,6107,Secondary,Como Secondary College,TRUE,2748.69251,2749,Como Secondary College (approx ~2749 m),"R25 (12.3%), R20 (8.2%), R17.5 (6.1%), R40 (3.0%), R60 (1.7%), R30 (1.2%), R80 (0.8%), R100 (0.5%)",R25,12.3,TRUE,31.20173438
+Bedford,6052,Primary,Hillcrest Primary School,FALSE,,,Hillcrest Primary School,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedford,6052,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedford,6052,Primary,Morley Primary School,FALSE,,,Morley Primary School,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedford,6052,Primary,Sutherland Dianella Primary School,FALSE,,,Sutherland Dianella Primary School,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedford,6052,Primary,West Morley Primary School,FALSE,,,West Morley Primary School,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedford,6052,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R50 (1.4%), R35 (1.3%), R30 (0.9%), R60 (0.4%), R40 (0.1%), R160 (0.0%)",R50,1.4,FALSE,0
+Bedfordale,6112,Primary,Lathlain Primary School,TRUE,18691.46151,18691,Lathlain Primary School (approx ~18691 m),R5 (0.0%),R5,0,TRUE,97.94888374
+Bedfordale,6112,Secondary,Willeton Senior High School,TRUE,15017.2357,15017,Willeton Senior High School (approx ~15017 m),R5 (0.0%),R5,0,TRUE,97.94888374
+Beechboro,6063,Primary,Morley Primary School,TRUE,1442.320017,1442,Morley Primary School (approx ~1442 m),"R20/35 (5.0%), R20/50 (4.2%), R20/40 (2.1%), R40 (0.3%), R30 (0.1%), R30/50 (0.0%), R20 (0.0%)",R20/35,5,TRUE,17.99497625
+Beechboro,6063,Secondary,John Forrest Secondary College,TRUE,2921.97022,2922,John Forrest Secondary College (approx ~2922 m),"R20/35 (5.0%), R20/50 (4.2%), R20/40 (2.1%), R40 (0.3%), R30 (0.1%), R30/50 (0.0%), R20 (0.0%)",R20/35,5,TRUE,17.99497625
+Beeliar,6164,Primary,Manning Primary School,TRUE,10484.39606,10484,Manning Primary School (approx ~10484 m),"R20 (12.3%), R25 (1.5%), R40 (1.2%), R60 (0.2%)",R20,12.3,TRUE,54.92893957
+Beeliar,6164,Secondary,Leeming Senior High School,TRUE,4375.147352,4375,Leeming Senior High School (approx ~4375 m),"R20 (12.3%), R25 (1.5%), R40 (1.2%), R60 (0.2%)",R20,12.3,TRUE,54.92893957
+Beldon,6027,Primary,Balcatta PS,TRUE,11954.77482,11955,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~11955 m)","R20 (16.8%), R20/40 (5.6%)",R20,16.8,TRUE,12.48628307
+Beldon,6027,Primary,Osborne PS,TRUE,11954.77482,11955,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~11955 m)","R20 (16.8%), R20/40 (5.6%)",R20,16.8,TRUE,12.48628307
+Beldon,6027,Primary,West Balcatta PS,TRUE,11954.77482,11955,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~11955 m)","R20 (16.8%), R20/40 (5.6%)",R20,16.8,TRUE,12.48628307
+Beldon,6027,Secondary,Duncraig Senior High School,TRUE,1472.819431,1473,Duncraig Senior High School (approx ~1473 m),"R20 (16.8%), R20/40 (5.6%)",R20,16.8,TRUE,12.48628307
+Belhus,6069,Primary,Morley Primary School,TRUE,12976.52556,12977,Morley Primary School (approx ~12977 m),,R20,,TRUE,62.57808522
+Belhus,6069,Secondary,John Forrest Secondary College,TRUE,13468.45922,13468,John Forrest Secondary College (approx ~13468 m),,R20,,TRUE,62.57808522
+Bellevue,6056,Primary,Bayswater Primary School,TRUE,7910.778438,7911,Bayswater Primary School (approx ~7911 m),"R20 (4.0%), R20/40 (4.0%), R12.5 (0.3%), R20/35 (0.0%), R20/50 (0.0%)",R20,4,TRUE,21.65682417
+Bellevue,6056,Secondary,John Forrest Secondary College,TRUE,6283.321547,6283,John Forrest Secondary College (approx ~6283 m),"R20 (4.0%), R20/40 (4.0%), R12.5 (0.3%), R20/35 (0.0%), R20/50 (0.0%)",R20,4,TRUE,21.65682417
+Belmont,6104,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,"R20 (6.5%), R20/40 (1.4%), R20/50/100 (0.5%)",R20,6.5,FALSE,0
+Belmont,6104,Primary,Rivervale Primary School,FALSE,,,Rivervale Primary School,"R20 (6.5%), R20/40 (1.4%), R20/50/100 (0.5%)",R20,6.5,FALSE,0
+Belmont,6104,Secondary,John Forrest Secondary College,TRUE,101.2536524,101,John Forrest Secondary College (approx ~101 m),"R20 (6.5%), R20/40 (1.4%), R20/50/100 (0.5%)",R20,6.5,FALSE,0
+Bennett Springs,6063,Primary,Morley Primary School,TRUE,2328.714724,2329,Morley Primary School (approx ~2329 m),,R20,,TRUE,32.26651998
+Bennett Springs,6063,Secondary,John Forrest Secondary College,TRUE,3981.551688,3982,John Forrest Secondary College (approx ~3982 m),,R20,,TRUE,32.26651998
+Bentley,6102,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,"R-AC0 (3.5%), R60 (1.0%), R40 (0.4%), R100 (0.0%)",R-AC0,3.5,TRUE,0.04743703
+Bentley,6102,Primary,Millen Primary School,FALSE,,,Millen Primary School,"R-AC0 (3.5%), R60 (1.0%), R40 (0.4%), R100 (0.0%)",R-AC0,3.5,TRUE,0.04743703
+Bentley,6102,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R-AC0 (3.5%), R60 (1.0%), R40 (0.4%), R100 (0.0%)",R-AC0,3.5,TRUE,0.04743703
+Bertram,6167,Secondary,Leeming Senior High School,TRUE,15624.48104,15624,Leeming Senior High School (approx ~15624 m),,R30,,TRUE,60.23813123
+Bibra Lake,6163,Primary,Manning Primary School,TRUE,6037.712963,6038,Manning Primary School (approx ~6038 m),"R20 (6.2%), R40 (0.1%), R30 (0.1%)",R20,6.2,TRUE,46.2243848
+Bibra Lake,6163,Secondary,Lakelands SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (6.2%), R40 (0.1%), R30 (0.1%)",R20,6.2,TRUE,46.2243848
+Bibra Lake,6163,Secondary,Leeming SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (6.2%), R40 (0.1%), R30 (0.1%)",R20,6.2,TRUE,46.2243848
+Bibra Lake,6163,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (6.2%), R40 (0.1%), R30 (0.1%)",R20,6.2,TRUE,46.2243848
+Bickley,6076,Primary,Lathlain Primary School,TRUE,13326.86783,13327,Lathlain Primary School (approx ~13327 m),,,,TRUE,99.85311832
+Bickley,6076,Secondary,John Forrest Secondary College,TRUE,14178.12403,14178,John Forrest Secondary College (approx ~14178 m),,,,TRUE,99.85311832
+Bicton,6157,Primary,Como Primary School,TRUE,5667.907497,5668,Como Primary School (approx ~5668 m),"R17.5 (6.6%), R50 (0.4%), R60 (0.3%)",R17.5,6.6,TRUE,13.87596166
+Bicton,6157,Secondary,Frenantle College,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R17.5 (6.6%), R50 (0.4%), R60 (0.3%)",R17.5,6.6,TRUE,13.87596166
+Bicton,6157,Secondary,John Curtin College of the Arts,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R17.5 (6.6%), R50 (0.4%), R60 (0.3%)",R17.5,6.6,TRUE,13.87596166
+Bicton,6157,Secondary,Melville SHS,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R17.5 (6.6%), R50 (0.4%), R60 (0.3%)",R17.5,6.6,TRUE,13.87596166
+Bicton,6157,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R17.5 (6.6%), R50 (0.4%), R60 (0.3%)",R17.5,6.6,TRUE,13.87596166
+Booragoon,6154,Primary,Manning Primary School,TRUE,1191.316019,1191,Manning Primary School (approx ~1191 m),"R20 (29.5%), R40 (10.6%), R-AC0 (8.3%), R25 (3.7%), R100 (1.2%), R80 (0.4%)",R20,29.5,TRUE,11.4939852
+Booragoon,6154,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (29.5%), R40 (10.6%), R-AC0 (8.3%), R25 (3.7%), R100 (1.2%), R80 (0.4%)",R20,29.5,TRUE,11.4939852
+Booragoon,6154,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (29.5%), R40 (10.6%), R-AC0 (8.3%), R25 (3.7%), R100 (1.2%), R80 (0.4%)",R20,29.5,TRUE,11.4939852
+Booragoon,6154,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (29.5%), R40 (10.6%), R-AC0 (8.3%), R25 (3.7%), R100 (1.2%), R80 (0.4%)",R20,29.5,TRUE,11.4939852
+Boya,6056,Primary,Bayswater Primary School,TRUE,10524.58189,10525,Bayswater Primary School (approx ~10525 m),R5 (17.7%),R5,17.7,TRUE,98.04955161
+Boya,6056,Secondary,John Forrest Secondary College,TRUE,9110.201356,9110,John Forrest Secondary College (approx ~9110 m),R5 (17.7%),R5,17.7,TRUE,98.04955161
+Brabham,6055,Primary,Morley Primary School,TRUE,7128.452583,7128,Morley Primary School (approx ~7128 m),,,,TRUE,48.21346223
+Brabham,6055,Secondary,John Forrest Secondary College,TRUE,7187.504553,7188,John Forrest Secondary College (approx ~7188 m),,,,TRUE,48.21346223
+Brentwood,6153,Primary,Manning Primary School,TRUE,846.9679399,847,Manning Primary School (approx ~847 m),"R25 (17.1%), R12.5 (7.4%), R30 (1.8%), R20 (0.8%)",R25,17.1,TRUE,18.36883751
+Brentwood,6153,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R25 (17.1%), R12.5 (7.4%), R30 (1.8%), R20 (0.8%)",R25,17.1,TRUE,18.36883751
+Brentwood,6153,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R25 (17.1%), R12.5 (7.4%), R30 (1.8%), R20 (0.8%)",R25,17.1,TRUE,18.36883751
+Brentwood,6153,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R25 (17.1%), R12.5 (7.4%), R30 (1.8%), R20 (0.8%)",R25,17.1,TRUE,18.36883751
+Brigadoon,6069,Primary,Morley Primary School,TRUE,15023.55403,15024,Morley Primary School (approx ~15024 m),,,,TRUE,90.2673064
+Brigadoon,6069,Secondary,John Forrest Secondary College,TRUE,14951.59514,14952,John Forrest Secondary College (approx ~14952 m),,,,TRUE,90.2673064
+Brookdale,6112,Primary,Manning Primary School,TRUE,18398.34768,18398,Manning Primary School (approx ~18398 m),"R25 (13.8%), R30 (0.6%), R40 (0.3%)",R25,13.8,TRUE,18.07371231
+Brookdale,6112,Secondary,Leeming Senior High School,TRUE,14063.04269,14063,Leeming Senior High School (approx ~14063 m),"R25 (13.8%), R30 (0.6%), R40 (0.3%)",R25,13.8,TRUE,18.07371231
+Bull Creek,6149,Primary,Manning Primary School,TRUE,1463.545205,1464,Manning Primary School (approx ~1464 m),R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS",R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Leeming SHS,FALSE,,,"Willeton SHS, Leeming SHS",R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS",R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Willeton SHS,FALSE,,,"Willeton SHS, Leeming SHS",R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bull Creek,6149,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,R20 (12.2%),R20,12.2,TRUE,18.8586646
+Bullsbrook,6084,Primary,Dianella Heights Primary School,TRUE,16167.11572,16167,Dianella Heights Primary School (approx ~16167 m),"R15 (0.1%), R20/35 (0.0%), R20 (0.0%)",R15,0.1,TRUE,72.90637319
+Bullsbrook,6084,Secondary,John Forrest Secondary College,TRUE,17874.23133,17874,John Forrest Secondary College (approx ~17874 m),"R15 (0.1%), R20/35 (0.0%), R20 (0.0%)",R15,0.1,TRUE,72.90637319
+Burns Beach,6028,Primary,Balcatta PS,TRUE,18444.10875,18444,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18444 m)","R20 (2.9%), R40 (0.1%)",R20,2.9,TRUE,64.93333158
+Burns Beach,6028,Primary,Osborne PS,TRUE,18444.10875,18444,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18444 m)","R20 (2.9%), R40 (0.1%)",R20,2.9,TRUE,64.93333158
+Burns Beach,6028,Primary,West Balcatta PS,TRUE,18444.10875,18444,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18444 m)","R20 (2.9%), R40 (0.1%)",R20,2.9,TRUE,64.93333158
+Burns Beach,6028,Secondary,Duncraig Senior High School,TRUE,7570.738793,7571,Duncraig Senior High School (approx ~7571 m),"R20 (2.9%), R40 (0.1%)",R20,2.9,TRUE,64.93333158
+Burswood,6100,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,"R-AC0 (17.3%), R40 (3.1%), R60 (1.3%)",R-AC0,17.3,TRUE,0.828388416
+Burswood,6100,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R-AC0 (17.3%), R40 (3.1%), R60 (1.3%)",R-AC0,17.3,TRUE,0.828388416
+Burswood,6100,Primary,Victoria Park Primary School,FALSE,,,Victoria Park Primary School,"R-AC0 (17.3%), R40 (3.1%), R60 (1.3%)",R-AC0,17.3,TRUE,0.828388416
+Burswood,6100,Secondary,John Forrest Secondary College,TRUE,170.734174,171,John Forrest Secondary College (approx ~171 m),"R-AC0 (17.3%), R40 (3.1%), R60 (1.3%)",R-AC0,17.3,TRUE,0.828388416
+Bushmead,6055,Primary,Bayswater Primary School,TRUE,7704.436044,7704,Bayswater Primary School (approx ~7704 m),,,,TRUE,97.68183352
+Bushmead,6055,Secondary,John Forrest Secondary College,TRUE,6250.072209,6250,John Forrest Secondary College (approx ~6250 m),,,,TRUE,97.68183352
+Butler,6036,Secondary,Duncraig Senior High School,TRUE,15989.24455,15989,Duncraig Senior High School (approx ~15989 m),"R20 (26.8%), R60 (7.6%), R30 (6.3%), R40 (2.0%), R80 (0.1%)",R20,26.8,TRUE,12.06372459
+Byford,6122,Secondary,Leeming Senior High School,TRUE,16668.13419,16668,Leeming Senior High School (approx ~16668 m),"R20 (1.7%), R10 (1.2%), R2.5 (1.0%), R5 (1.0%), R2 (0.4%), R30 (0.3%), R40 (0.0%)",R20,1.7,TRUE,76.79279211
+Calista,6167,Secondary,Leeming Senior High School,TRUE,17423.8753,17424,Leeming Senior High School (approx ~17424 m),,,,TRUE,43.53545764
+Camillo,6111,Primary,Lathlain Primary School,TRUE,13968.25294,13968,Lathlain Primary School (approx ~13968 m),"R15/40 (7.7%), R25/60 (0.9%)",R15/40,7.7,TRUE,24.47555679
+Camillo,6111,Secondary,Willeton Senior High School,TRUE,10485.75983,10486,Willeton Senior High School (approx ~10486 m),"R15/40 (7.7%), R25/60 (0.9%)",R15/40,7.7,TRUE,24.47555679
+Canning Mills,6111,Primary,Lathlain Primary School,TRUE,11162.08211,11162,Lathlain Primary School (approx ~11162 m),,,,TRUE,98.09537825
+Canning Mills,6111,Secondary,Como Secondary College,TRUE,11504.01448,11504,Como Secondary College (approx ~11504 m),,,,TRUE,98.09537825
+Canning Vale,6155,Primary,Manning Primary School,TRUE,4175.637679,4176,Manning Primary School (approx ~4176 m),"R20 (2.3%), R60 (0.5%), R40 (0.4%), R80 (0.3%), R30 (0.0%)",R20,2.3,TRUE,29.94649478
+Canning Vale,6155,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (2.3%), R60 (0.5%), R40 (0.4%), R80 (0.3%), R30 (0.0%)",R20,2.3,TRUE,29.94649478
+Canning Vale,6155,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,"R20 (2.3%), R60 (0.5%), R40 (0.4%), R80 (0.3%), R30 (0.0%)",R20,2.3,TRUE,29.94649478
+Cannington,6107,Primary,Lathlain Primary School,TRUE,980.8487653,981,Lathlain Primary School (approx ~981 m),"R40 (5.2%), R30 (1.4%), R60 (1.4%)",R40,5.2,TRUE,15.8166356
+Cannington,6107,Secondary,Como Secondary College,TRUE,191.3498438,191,Como Secondary College (approx ~191 m),"R40 (5.2%), R30 (1.4%), R60 (1.4%)",R40,5.2,TRUE,15.8166356
+Carabooda,6033,Secondary,Duncraig Senior High School,TRUE,19303.08194,19303,Duncraig Senior High School (approx ~19303 m),,,,TRUE,67.95706531
+Cardup,6122,Secondary,Leeming Senior High School,TRUE,18652.75853,18653,Leeming Senior High School (approx ~18653 m),,,,TRUE,99.98296631
+Carine,6020,Primary,Balcatta PS,TRUE,2564.669417,2565,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2565 m)",,R20,,TRUE,26.45168121
+Carine,6020,Primary,Osborne PS,TRUE,2564.669417,2565,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2565 m)",,R20,,TRUE,26.45168121
+Carine,6020,Primary,West Balcatta PS,TRUE,2564.669417,2565,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2565 m)",,R20,,TRUE,26.45168121
+Carine,6020,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,26.45168121
+Carine,6020,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,26.45168121
+Carine,6020,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,R20,,TRUE,26.45168121
+Carlisle,6101,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,"R30 (32.2%), R-AC4 (0.6%), R-AC0 (0.3%), R60 (0.1%)",R30,32.2,FALSE,0
+Carlisle,6101,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,"R30 (32.2%), R-AC4 (0.6%), R-AC0 (0.3%), R60 (0.1%)",R30,32.2,FALSE,0
+Carlisle,6101,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R30 (32.2%), R-AC4 (0.6%), R-AC0 (0.3%), R60 (0.1%)",R30,32.2,FALSE,0
+Carlisle,6101,Secondary,Como Secondary College,TRUE,1877.545792,1878,Como Secondary College (approx ~1878 m),"R30 (32.2%), R-AC4 (0.6%), R-AC0 (0.3%), R60 (0.1%)",R30,32.2,FALSE,0
+Carmel,6076,Primary,Lathlain Primary School,TRUE,11630.20006,11630,Lathlain Primary School (approx ~11630 m),,R20,,TRUE,99.50771413
+Carmel,6076,Secondary,Como Secondary College,TRUE,12396.25169,12396,Como Secondary College (approx ~12396 m),,R20,,TRUE,99.50771413
+Carramar,6031,Primary,Dianella Heights Primary School,TRUE,18431.46338,18431,Dianella Heights Primary School (approx ~18431 m),"R30 (0.6%), R2 (0.4%), R40 (0.2%)",R30,0.6,TRUE,74.20857068
+Carramar,6031,Secondary,Duncraig Senior High School,TRUE,9184.806107,9185,Duncraig Senior High School (approx ~9185 m),"R30 (0.6%), R2 (0.4%), R40 (0.2%)",R30,0.6,TRUE,74.20857068
+Casuarina,6167,Secondary,Leeming Senior High School,TRUE,15292.63776,15293,Leeming Senior High School (approx ~15293 m),,R20,,TRUE,95.34532413
+Caversham,6055,Primary,Embleton Primary School,TRUE,4024.948591,4025,Embleton Primary School (approx ~4025 m),R20 (0.6%),R20,0.6,TRUE,33.95644165
+Caversham,6055,Secondary,John Forrest Secondary College,TRUE,2125.451558,2125,John Forrest Secondary College (approx ~2125 m),R20 (0.6%),R20,0.6,TRUE,33.95644165
+Champion Lakes,6111,Primary,Lathlain Primary School,TRUE,13264.67722,13265,Lathlain Primary School (approx ~13265 m),,R20,,TRUE,83.29613291
+Champion Lakes,6111,Secondary,Leeming Senior High School,TRUE,9691.946216,9692,Leeming Senior High School (approx ~9692 m),,R20,,TRUE,83.29613291
+Churchlands,6018,Primary,Balcatta PS,TRUE,1808.3129,1808,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1808 m)",,R20,,TRUE,15.49457715
+Churchlands,6018,Primary,Osborne PS,TRUE,1808.3129,1808,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1808 m)",,R20,,TRUE,15.49457715
+Churchlands,6018,Primary,West Balcatta PS,TRUE,1808.3129,1808,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1808 m)",,R20,,TRUE,15.49457715
+Churchlands,6018,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,R20,,TRUE,15.49457715
+City Beach,6015,Primary,Balcatta PS,TRUE,3872.062937,3872,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3872 m)",R12.5 (2.4%),R12.5,2.4,TRUE,64.64350663
+City Beach,6015,Primary,Osborne PS,TRUE,3872.062937,3872,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3872 m)",R12.5 (2.4%),R12.5,2.4,TRUE,64.64350663
+City Beach,6015,Primary,West Balcatta PS,TRUE,3872.062937,3872,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3872 m)",R12.5 (2.4%),R12.5,2.4,TRUE,64.64350663
+City Beach,6015,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,R12.5 (2.4%),R12.5,2.4,TRUE,64.64350663
+City Beach,6015,Secondary,Shenton College,FALSE,,,Shenton College,R12.5 (2.4%),R12.5,2.4,TRUE,64.64350663
+Claremont,6010,Primary,South Perth Primary School,TRUE,4695.370685,4695,South Perth Primary School (approx ~4695 m),"R20 (14.2%), R30 (9.5%), R15/20 (4.3%), R25 (3.9%), R40 (3.6%), R15 (1.1%), R30/40 (0.7%), R60 (0.2%), R50 (0.1%), R12.5 (0.0%), R160 (0.0%), R10 (0.0%)",R20,14.2,TRUE,4.931369765
+Claremont,6010,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (14.2%), R30 (9.5%), R15/20 (4.3%), R25 (3.9%), R40 (3.6%), R15 (1.1%), R30/40 (0.7%), R60 (0.2%), R50 (0.1%), R12.5 (0.0%), R160 (0.0%), R10 (0.0%)",R20,14.2,TRUE,4.931369765
+Clarkson,6030,Secondary,Duncraig Senior High School,TRUE,10714.8326,10715,Duncraig Senior High School (approx ~10715 m),"R20 (35.4%), R30 (5.9%), R40 (3.4%), R60 (0.4%), R80 (0.2%)",R20,35.4,TRUE,16.27298898
+Cloverdale,6105,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,"R20 (16.8%), R20/40 (8.3%), R20/50/100 (5.2%)",R20,16.8,TRUE,6.336213982
+Cloverdale,6105,Primary,Rivervale Primary School,FALSE,,,Rivervale Primary School,"R20 (16.8%), R20/40 (8.3%), R20/50/100 (5.2%)",R20,16.8,TRUE,6.336213982
+Cloverdale,6105,Secondary,John Forrest Secondary College,TRUE,2006.735497,2007,John Forrest Secondary College (approx ~2007 m),"R20 (16.8%), R20/40 (8.3%), R20/50/100 (5.2%)",R20,16.8,TRUE,6.336213982
+Cockburn Central,6164,Primary,Manning Primary School,TRUE,8599.602945,8600,Manning Primary School (approx ~8600 m),"R40 (4.0%), R20 (0.1%)",R40,4,TRUE,59.09192414
+Cockburn Central,6164,Secondary,Leeming Senior High School,TRUE,2502.025502,2502,Leeming Senior High School (approx ~2502 m),"R40 (4.0%), R20 (0.1%)",R40,4,TRUE,59.09192414
+Como,6152,Primary,Collier PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Collier Primary School,FALSE,,,"Collier Primary School, Curtin Primary School","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Collier Primary School,FALSE,,,Collier Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Como Primary School,FALSE,,,Como Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Curtin PS,FALSE,,,"Curtin PS, Manning PS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Curtin Primary School,FALSE,,,"Collier Primary School, Curtin Primary School","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Kensington PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Kensington Primary School,FALSE,,,Kensington Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Manning PS,FALSE,,,"Curtin PS, Manning PS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Manning Primary School,FALSE,,,Manning Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,Millen Primary School,FALSE,,,Millen Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,South Perth PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Primary,South Perth Primary School,FALSE,,,South Perth Primary School,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Secondary,Como Secondary College,FALSE,,,"Como Secondary College, Kent St SHS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Como,6152,Secondary,Kent St SHS,FALSE,,,"Como Secondary College, Kent St SHS","R-AC0 (1.3%), R50 (0.2%)",R-AC0,1.3,TRUE,0.103629209
+Connolly,6027,Primary,Balcatta PS,TRUE,14616.08371,14616,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~14616 m)","R20 (12.4%), R40 (1.8%)",R20,12.4,TRUE,17.90692798
+Connolly,6027,Primary,Osborne PS,TRUE,14616.08371,14616,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~14616 m)","R20 (12.4%), R40 (1.8%)",R20,12.4,TRUE,17.90692798
+Connolly,6027,Primary,West Balcatta PS,TRUE,14616.08371,14616,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~14616 m)","R20 (12.4%), R40 (1.8%)",R20,12.4,TRUE,17.90692798
+Connolly,6027,Secondary,Duncraig Senior High School,TRUE,4449.312628,4449,Duncraig Senior High School (approx ~4449 m),"R20 (12.4%), R40 (1.8%)",R20,12.4,TRUE,17.90692798
+Coogee,6166,Primary,Manning Primary School,TRUE,11023.34029,11023,Manning Primary School (approx ~11023 m),,R20,,TRUE,72.65755071
+Coogee,6166,Secondary,Frenantle College,TRUE,4173.760906,4174,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~4174 m)",,R20,,TRUE,72.65755071
+Coogee,6166,Secondary,John Curtin College of the Arts,TRUE,4173.760906,4174,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~4174 m)",,R20,,TRUE,72.65755071
+Coogee,6166,Secondary,Melville SHS,TRUE,4173.760906,4174,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~4174 m)",,R20,,TRUE,72.65755071
+Coolbellup,6163,Primary,Manning Primary School,TRUE,6219.841361,6220,Manning Primary School (approx ~6220 m),"R30 (10.2%), R40 (7.1%), R60 (6.7%), R50 (0.4%), R80 (0.1%)",R30,10.2,TRUE,30.51830511
+Coolbellup,6163,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R30 (10.2%), R40 (7.1%), R60 (6.7%), R50 (0.4%), R80 (0.1%)",R30,10.2,TRUE,30.51830511
+Coolbinia,6050,Primary,Coolbinia PS,FALSE,,,"Coolbinia PS, Kyilla PS","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Primary,Coolbinia PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Primary,Kyilla PS,FALSE,,,"Coolbinia PS, Kyilla PS","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Primary,Kyilla PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Coolbinia,6050,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R30/40 (0.9%), R20 (0.7%)",R30/40,0.9,FALSE,0
+Cottesloe,6011,Primary,South Perth Primary School,TRUE,7289.414925,7289,South Perth Primary School (approx ~7289 m),"R20 (13.1%), R30 (2.7%), R60 (0.9%), R50 (0.3%), R20/60 (0.2%)",R20,13.1,TRUE,1.745190629
+Cottesloe,6011,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (13.1%), R30 (2.7%), R60 (0.9%), R50 (0.3%), R20/60 (0.2%)",R20,13.1,TRUE,1.745190629
+Craigie,6025,Primary,Balcatta PS,TRUE,9618.671387,9619,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~9619 m)","R20/40 (10.1%), R20 (5.8%), R40 (0.2%), R30 (0.1%), R25 (0.1%)",R20/40,10.1,TRUE,50.96877565
+Craigie,6025,Primary,Osborne PS,TRUE,9618.671387,9619,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~9619 m)","R20/40 (10.1%), R20 (5.8%), R40 (0.2%), R30 (0.1%), R25 (0.1%)",R20/40,10.1,TRUE,50.96877565
+Craigie,6025,Primary,West Balcatta PS,TRUE,9618.671387,9619,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~9619 m)","R20/40 (10.1%), R20 (5.8%), R40 (0.2%), R30 (0.1%), R25 (0.1%)",R20/40,10.1,TRUE,50.96877565
+Craigie,6025,Secondary,Duncraig Senior High School,TRUE,38.74500354,39,Duncraig Senior High School (approx ~39 m),"R20/40 (10.1%), R20 (5.8%), R40 (0.2%), R30 (0.1%), R25 (0.1%)",R20/40,10.1,TRUE,50.96877565
+Crawley,6009,Primary,South Perth Primary School,TRUE,1774.32748,1774,South Perth Primary School (approx ~1774 m),,R80,,TRUE,6.380263961
+Crawley,6009,Secondary,Shenton College,FALSE,,,Shenton College,,R80,,TRUE,6.380263961
+Cullacabardee,6067,Primary,Morley Primary School,TRUE,4223.384389,4223,Morley Primary School (approx ~4223 m),,,,TRUE,98.67202884
+Cullacabardee,6067,Secondary,John Forrest Secondary College,TRUE,5940.437379,5940,John Forrest Secondary College (approx ~5940 m),,,,TRUE,98.67202884
+Currambine,6028,Primary,Balcatta PS,TRUE,16416.65324,16417,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16417 m)","R20 (15.1%), R80 (4.5%), R40 (2.3%), R20/40 (0.4%)",R20,15.1,TRUE,14.78459308
+Currambine,6028,Primary,Osborne PS,TRUE,16416.65324,16417,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16417 m)","R20 (15.1%), R80 (4.5%), R40 (2.3%), R20/40 (0.4%)",R20,15.1,TRUE,14.78459308
+Currambine,6028,Primary,West Balcatta PS,TRUE,16416.65324,16417,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16417 m)","R20 (15.1%), R80 (4.5%), R40 (2.3%), R20/40 (0.4%)",R20,15.1,TRUE,14.78459308
+Currambine,6028,Secondary,Duncraig Senior High School,TRUE,5906.183925,5906,Duncraig Senior High School (approx ~5906 m),"R20 (15.1%), R80 (4.5%), R40 (2.3%), R20/40 (0.4%)",R20,15.1,TRUE,14.78459308
+Daglish,6008,Primary,South Perth Primary School,TRUE,3126.057536,3126,South Perth Primary School (approx ~3126 m),"R15 (8.9%), R60 (7.8%), R100 (5.6%), R20 (2.1%), R80 (1.6%)",R15,8.9,TRUE,4.602038505
+Daglish,6008,Secondary,Bob Hawke College,FALSE,,,"Shenton College, Bob Hawke College","R15 (8.9%), R60 (7.8%), R100 (5.6%), R20 (2.1%), R80 (1.6%)",R15,8.9,TRUE,4.602038505
+Daglish,6008,Secondary,Shenton College,FALSE,,,Shenton College,"R15 (8.9%), R60 (7.8%), R100 (5.6%), R20 (2.1%), R80 (1.6%)",R15,8.9,TRUE,4.602038505
+Daglish,6008,Secondary,Shenton College,FALSE,,,"Shenton College, Bob Hawke College","R15 (8.9%), R60 (7.8%), R100 (5.6%), R20 (2.1%), R80 (1.6%)",R15,8.9,TRUE,4.602038505
+Dalkeith,6009,Primary,South Perth Primary School,TRUE,3447.390431,3447,South Perth Primary School (approx ~3447 m),,,,FALSE,0
+Dalkeith,6009,Secondary,Shenton College,FALSE,,,Shenton College,,,,FALSE,0
+Darch,6065,Primary,Dianella Heights Primary School,TRUE,5186.44465,5186,Dianella Heights Primary School (approx ~5186 m),,,,TRUE,15.01348944
+Darch,6065,Secondary,Carine Senior High School,TRUE,4318.839791,4319,Carine Senior High School (approx ~4319 m),,,,TRUE,15.01348944
+Darling Downs,6122,Primary,Manning Primary School,TRUE,19051.31224,19051,Manning Primary School (approx ~19051 m),R20 (0.2%),R20,0.2,TRUE,99.0391385
+Darling Downs,6122,Secondary,Leeming Senior High School,TRUE,14156.28393,14156,Leeming Senior High School (approx ~14156 m),R20 (0.2%),R20,0.2,TRUE,99.0391385
+Darlington,6070,Primary,Bayswater Primary School,TRUE,11723.19003,11723,Bayswater Primary School (approx ~11723 m),"R5 (18.1%), R20 (0.0%)",R5,18.1,TRUE,99.82222445
+Darlington,6070,Secondary,John Forrest Secondary College,TRUE,10192.95961,10193,John Forrest Secondary College (approx ~10193 m),"R5 (18.1%), R20 (0.0%)",R5,18.1,TRUE,99.82222445
+Dayton,6055,Primary,Morley Primary School,TRUE,6008.471846,6008,Morley Primary School (approx ~6008 m),,,,TRUE,22.48688375
+Dayton,6055,Secondary,John Forrest Secondary College,TRUE,5348.09569,5348,John Forrest Secondary College (approx ~5348 m),,,,TRUE,22.48688375
+Dianella,6059,Primary,Dianella Heights Primary School,FALSE,,,Dianella Heights Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,Morley Primary School,FALSE,,,Morley Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,North Morley PS,FALSE,,,"West Morley PS, North Morley PS",R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,Sutherland Dianella Primary School,FALSE,,,Sutherland Dianella Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,West Morley PS,FALSE,,,"West Morley PS, North Morley PS",R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,West Morley Primary School,FALSE,,,West Morley Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Primary,Yokine Primary School,FALSE,,,Yokine Primary School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Dianella,6059,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,R-AC0 (0.1%),R-AC0,0.1,TRUE,11.94204667
+Doubleview,6018,Primary,Balcatta PS,TRUE,1209.59022,1210,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1210 m)",,R30,,FALSE,0
+Doubleview,6018,Primary,Osborne PS,TRUE,1209.59022,1210,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1210 m)",,R30,,FALSE,0
+Doubleview,6018,Primary,West Balcatta PS,TRUE,1209.59022,1210,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1210 m)",,R30,,FALSE,0
+Doubleview,6018,Secondary,Balcatta SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R30,,FALSE,0
+Doubleview,6018,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,R30,,FALSE,0
+Duncraig,6023,Primary,Balcatta PS,TRUE,4106.936959,4107,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4107 m)","R20 (3.1%), R20/40 (0.5%)",R20,3.1,TRUE,9.947783662
+Duncraig,6023,Primary,Osborne PS,TRUE,4106.936959,4107,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4107 m)","R20 (3.1%), R20/40 (0.5%)",R20,3.1,TRUE,9.947783662
+Duncraig,6023,Primary,West Balcatta PS,TRUE,4106.936959,4107,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4107 m)","R20 (3.1%), R20/40 (0.5%)",R20,3.1,TRUE,9.947783662
+Duncraig,6023,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,"R20 (3.1%), R20/40 (0.5%)",R20,3.1,TRUE,9.947783662
+Duncraig,6023,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,"R20 (3.1%), R20/40 (0.5%)",R20,3.1,TRUE,9.947783662
+East Cannington,6107,Primary,Lathlain Primary School,TRUE,2505.419456,2505,Lathlain Primary School (approx ~2505 m),"R30 (21.5%), R20 (18.7%), R40 (6.3%), R60 (3.1%)",R30,21.5,TRUE,11.59576211
+East Cannington,6107,Secondary,Como Secondary College,TRUE,2438.987431,2439,Como Secondary College (approx ~2439 m),"R30 (21.5%), R20 (18.7%), R40 (6.3%), R60 (3.1%)",R30,21.5,TRUE,11.59576211
+East Fremantle,6158,Primary,Como Primary School,TRUE,7539.454821,7539,Como Primary School (approx ~7539 m),"R12.5 (21.5%), R17.5 (8.9%), R20 (7.4%), R30 (2.8%), R12.5/40 (1.8%), R20/40 (0.5%), R40 (0.3%), R15 (0.3%), R80 (0.1%), R25 (0.0%)",R12.5,21.5,FALSE,0
+East Fremantle,6158,Secondary,Frenantle College,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R12.5 (21.5%), R17.5 (8.9%), R20 (7.4%), R30 (2.8%), R12.5/40 (1.8%), R20/40 (0.5%), R40 (0.3%), R15 (0.3%), R80 (0.1%), R25 (0.0%)",R12.5,21.5,FALSE,0
+East Fremantle,6158,Secondary,John Curtin College of the Arts,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R12.5 (21.5%), R17.5 (8.9%), R20 (7.4%), R30 (2.8%), R12.5/40 (1.8%), R20/40 (0.5%), R40 (0.3%), R15 (0.3%), R80 (0.1%), R25 (0.0%)",R12.5,21.5,FALSE,0
+East Fremantle,6158,Secondary,Melville SHS,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R12.5 (21.5%), R17.5 (8.9%), R20 (7.4%), R30 (2.8%), R12.5/40 (1.8%), R20/40 (0.5%), R40 (0.3%), R15 (0.3%), R80 (0.1%), R25 (0.0%)",R12.5,21.5,FALSE,0
+East Fremantle,6158,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R12.5 (21.5%), R17.5 (8.9%), R20 (7.4%), R30 (2.8%), R12.5/40 (1.8%), R20/40 (0.5%), R40 (0.3%), R15 (0.3%), R80 (0.1%), R25 (0.0%)",R12.5,21.5,FALSE,0
+East Perth,6004,Primary,Maylands Peninsula Primary School,TRUE,75.15730883,75,Maylands Peninsula Primary School (approx ~75 m),R160 (3.6%),R160,3.6,TRUE,0.427935161
+East Perth,6004,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,R160 (3.6%),R160,3.6,TRUE,0.427935161
+East Perth,6004,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,R160 (3.6%),R160,3.6,TRUE,0.427935161
+East Rockingham,6168,Secondary,Leeming Senior High School,TRUE,19058.94224,19059,Leeming Senior High School (approx ~19059 m),,,,TRUE,92.274251
+East Victoria Park,6101,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,"R20 (11.3%), R30 (4.9%), R40 (2.4%), R60 (2.0%), R-AC4 (0.1%)",R20,11.3,TRUE,0.28809589
+East Victoria Park,6101,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R20 (11.3%), R30 (4.9%), R40 (2.4%), R60 (2.0%), R-AC4 (0.1%)",R20,11.3,TRUE,0.28809589
+East Victoria Park,6101,Primary,Millen Primary School,FALSE,,,Millen Primary School,"R20 (11.3%), R30 (4.9%), R40 (2.4%), R60 (2.0%), R-AC4 (0.1%)",R20,11.3,TRUE,0.28809589
+East Victoria Park,6101,Primary,Victoria Park Primary School,FALSE,,,Victoria Park Primary School,"R20 (11.3%), R30 (4.9%), R40 (2.4%), R60 (2.0%), R-AC4 (0.1%)",R20,11.3,TRUE,0.28809589
+East Victoria Park,6101,Secondary,Como Secondary College,TRUE,290.9766054,291,Como Secondary College (approx ~291 m),"R20 (11.3%), R30 (4.9%), R40 (2.4%), R60 (2.0%), R-AC4 (0.1%)",R20,11.3,TRUE,0.28809589
+Eden Hill,6054,Primary,Embleton Primary School,TRUE,1637.327339,1637,Embleton Primary School (approx ~1637 m),"R20 (20.7%), R20/30 (9.9%), R17.5 (4.5%), R20/40 (3.5%), R30 (1.9%), R17.5/30 (0.3%), R25 (0.1%), R20/50 (0.0%)",R20,20.7,TRUE,16.88815802
+Eden Hill,6054,Secondary,John Forrest Secondary College,TRUE,1071.697997,1072,John Forrest Secondary College (approx ~1072 m),"R20 (20.7%), R20/30 (9.9%), R17.5 (4.5%), R20/40 (3.5%), R30 (1.9%), R17.5/30 (0.3%), R25 (0.1%), R20/50 (0.0%)",R20,20.7,TRUE,16.88815802
+Edgewater,6027,Primary,Nollamara Primary School,TRUE,11813.08115,11813,Nollamara Primary School (approx ~11813 m),"R20 (8.9%), R20/40 (5.9%), R40 (0.1%)",R20,8.9,TRUE,43.33934175
+Edgewater,6027,Secondary,Duncraig Senior High School,TRUE,3337.064268,3337,Duncraig Senior High School (approx ~3337 m),"R20 (8.9%), R20/40 (5.9%), R40 (0.1%)",R20,8.9,TRUE,43.33934175
+Ellenbrook,6069,Primary,Morley Primary School,TRUE,10584.91549,10585,Morley Primary School (approx ~10585 m),,R20,,TRUE,37.67994568
+Ellenbrook,6069,Secondary,John Forrest Secondary College,TRUE,12224.1161,12224,John Forrest Secondary College (approx ~12224 m),,R20,,TRUE,37.67994568
+Embleton,6062,Primary,Embleton Primary School,FALSE,,,Embleton Primary School,,R25,,FALSE,0
+Embleton,6062,Primary,Hillcrest Primary School,FALSE,,,Hillcrest Primary School,,R25,,FALSE,0
+Embleton,6062,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,,R25,,FALSE,0
+Ferndale,6148,Primary,Millen Primary School,TRUE,2146.492545,2146,Millen Primary School (approx ~2146 m),"R20 (17.1%), R30 (2.6%)",R20,17.1,TRUE,51.21311437
+Ferndale,6148,Secondary,Rossmoyne Senior High School,TRUE,206.4746083,206,Rossmoyne Senior High School (approx ~206 m),"R20 (17.1%), R30 (2.6%)",R20,17.1,TRUE,51.21311437
+Floreat,6014,Primary,Osborne Primary School,TRUE,2718.712904,2719,Osborne Primary School (approx ~2719 m),"R12.5 (11.1%), R15 (2.4%), R20 (1.2%)",R12.5,11.1,TRUE,11.29227016
+Floreat,6014,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,"R12.5 (11.1%), R15 (2.4%), R20 (1.2%)",R12.5,11.1,TRUE,11.29227016
+Floreat,6014,Secondary,Shenton College,FALSE,,,Shenton College,"R12.5 (11.1%), R15 (2.4%), R20 (1.2%)",R12.5,11.1,TRUE,11.29227016
+Forrestdale,6112,Primary,Manning Primary School,TRUE,11986.34755,11986,Manning Primary School (approx ~11986 m),R12.5/25 (0.8%),R12.5/25,0.8,TRUE,89.21513267
+Forrestdale,6112,Secondary,Leeming Senior High School,TRUE,6369.14139,6369,Leeming Senior High School (approx ~6369 m),R12.5/25 (0.8%),R12.5/25,0.8,TRUE,89.21513267
+Forrestfield,6058,Primary,Lathlain Primary School,TRUE,4220.219691,4220,Lathlain Primary School (approx ~4220 m),"R20/30 (3.0%), R20/40 (1.1%), R25/40 (0.8%), R25/60 (0.3%), R20 (0.3%), R20/60 (0.2%), R5 (0.1%), R30 (0.1%), R25 (0.0%)",R20/30,3,TRUE,62.42129031
+Forrestfield,6058,Secondary,John Forrest Secondary College,TRUE,5470.251716,5470,John Forrest Secondary College (approx ~5470 m),"R20/30 (3.0%), R20/40 (1.1%), R25/40 (0.8%), R25/60 (0.3%), R20 (0.3%), R20/60 (0.2%), R5 (0.1%), R30 (0.1%), R25 (0.0%)",R20/30,3,TRUE,62.42129031
+Fremantle,6160,Primary,Manning Primary School,TRUE,7509.703539,7510,Manning Primary School (approx ~7510 m),"R35 (3.6%), R25 (2.9%), R-AC3 (2.3%), R160 (0.4%), R20 (0.1%), R10 (0.1%)",R35,3.6,TRUE,7.516037873
+Fremantle,6160,Secondary,Frenantle College,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R35 (3.6%), R25 (2.9%), R-AC3 (2.3%), R160 (0.4%), R20 (0.1%), R10 (0.1%)",R35,3.6,TRUE,7.516037873
+Fremantle,6160,Secondary,John Curtin College of the Arts,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R35 (3.6%), R25 (2.9%), R-AC3 (2.3%), R160 (0.4%), R20 (0.1%), R10 (0.1%)",R35,3.6,TRUE,7.516037873
+Fremantle,6160,Secondary,Melville SHS,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R35 (3.6%), R25 (2.9%), R-AC3 (2.3%), R160 (0.4%), R20 (0.1%), R10 (0.1%)",R35,3.6,TRUE,7.516037873
+Fremantle,6160,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R35 (3.6%), R25 (2.9%), R-AC3 (2.3%), R160 (0.4%), R20 (0.1%), R10 (0.1%)",R35,3.6,TRUE,7.516037873
+Garden Island,6168,Secondary,Fremantle College,TRUE,9153.642161,9154,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~9154 m)",,,,TRUE,90.79795049
+Garden Island,6168,Secondary,John Curtin College,TRUE,9153.642161,9154,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~9154 m)",,,,TRUE,90.79795049
+Garden Island,6168,Secondary,Melville SHS,TRUE,9153.642161,9154,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~9154 m)",,,,TRUE,90.79795049
+Garden Island,6168,Secondary,Shenton College,TRUE,9153.642161,9154,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~9154 m)",,,,TRUE,90.79795049
+Gidgegannup,6083,Primary,Embleton Primary School,TRUE,17951.20369,17951,Embleton Primary School (approx ~17951 m),,,,TRUE,92.99807541
+Gidgegannup,6083,Secondary,John Forrest Secondary College,TRUE,15916.18735,15916,John Forrest Secondary College (approx ~15916 m),,,,TRUE,92.99807541
+Girrawheen,6064,Primary,Dianella Heights Primary School,TRUE,2232.043969,2232,Dianella Heights Primary School (approx ~2232 m),,,,TRUE,13.90320092
+Girrawheen,6064,Secondary,Carine Senior High School,TRUE,2499.025004,2499,Carine Senior High School (approx ~2499 m),,,,TRUE,13.90320092
+Glen Forrest,6071,Primary,Bayswater Primary School,TRUE,14212.22778,14212,Bayswater Primary School (approx ~14212 m),,,,TRUE,99.83901599
+Glen Forrest,6071,Secondary,John Forrest Secondary College,TRUE,12893.18384,12893,John Forrest Secondary College (approx ~12893 m),,,,TRUE,99.83901599
+Glendalough,6016,Primary,Osborne Primary School,TRUE,105.5781427,106,Osborne Primary School (approx ~106 m),,,,FALSE,0
+Glendalough,6016,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,,,,FALSE,0
+Gnangara,6077,Primary,Dianella Heights Primary School,TRUE,7898.743261,7899,Dianella Heights Primary School (approx ~7899 m),,,,TRUE,81.19981082
+Gnangara,6077,Secondary,Carine Senior High School,TRUE,7054.564658,7055,Carine Senior High School (approx ~7055 m),,,,TRUE,81.19981082
+Gooseberry Hill,6076,Primary,Bayswater Primary School,TRUE,8948.575569,8949,Bayswater Primary School (approx ~8949 m),R10 (0.9%),R10,0.9,TRUE,100
+Gooseberry Hill,6076,Secondary,John Forrest Secondary College,TRUE,8092.528959,8093,John Forrest Secondary College (approx ~8093 m),R10 (0.9%),R10,0.9,TRUE,100
+Gosnells,6110,Primary,Lathlain Primary School,TRUE,8740.259251,8740,Lathlain Primary School (approx ~8740 m),"R20 (19.5%), R30 (7.6%), R60 (6.4%), R80 (1.2%), R40 (1.1%), R160 (0.7%), R35 (0.7%), R17.5 (0.7%), R25 (0.4%), R100 (0.4%)",R20,19.5,TRUE,50.19398142
+Gosnells,6110,Secondary,Willeton Senior High School,TRUE,6364.598236,6365,Willeton Senior High School (approx ~6365 m),"R20 (19.5%), R30 (7.6%), R60 (6.4%), R80 (1.2%), R40 (1.1%), R160 (0.7%), R35 (0.7%), R17.5 (0.7%), R25 (0.4%), R100 (0.4%)",R20,19.5,TRUE,50.19398142
+Greenmount,6056,Primary,Bayswater Primary School,TRUE,9990.700799,9991,Bayswater Primary School (approx ~9991 m),"R5 (16.8%), R20 (4.3%), R12.5 (4.3%), R40 (1.4%)",R5,16.8,TRUE,77.53475753
+Greenmount,6056,Secondary,John Forrest Secondary College,TRUE,8299.415965,8299,John Forrest Secondary College (approx ~8299 m),"R5 (16.8%), R20 (4.3%), R12.5 (4.3%), R40 (1.4%)",R5,16.8,TRUE,77.53475753
+Greenwood,6024,Primary,Balcatta PS,TRUE,4973.74959,4974,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4974 m)",,,,TRUE,6.550820035
+Greenwood,6024,Primary,Osborne PS,TRUE,4973.74959,4974,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4974 m)",,,,TRUE,6.550820035
+Greenwood,6024,Primary,West Balcatta PS,TRUE,4973.74959,4974,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4974 m)",,,,TRUE,6.550820035
+Greenwood,6024,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,,,TRUE,6.550820035
+Guildford,6055,Primary,Bayswater Primary School,TRUE,3786.659985,3787,Bayswater Primary School (approx ~3787 m),R5 (6.3%),R5,6.3,TRUE,52.30056282
+Guildford,6055,Secondary,John Forrest Secondary College,TRUE,1634.27826,1634,John Forrest Secondary College (approx ~1634 m),R5 (6.3%),R5,6.3,TRUE,52.30056282
+Gwelup,6018,Primary,Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,,,TRUE,15.2242972
+Gwelup,6018,Primary,Osborne PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,,,TRUE,15.2242972
+Gwelup,6018,Primary,West Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,,,TRUE,15.2242972
+Gwelup,6018,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,,,TRUE,15.2242972
+Gwelup,6018,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",,,,TRUE,15.2242972
+Gwelup,6018,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,,,TRUE,15.2242972
+Gwelup,6018,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,,,TRUE,15.2242972
+Gwelup,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",,,,TRUE,15.2242972
+Hacketts Gully,6076,Primary,Carlisle Primary School,TRUE,14485.94762,14486,Carlisle Primary School (approx ~14486 m),,,,TRUE,99.94358145
+Hacketts Gully,6076,Secondary,John Forrest Secondary College,TRUE,14475.51735,14476,John Forrest Secondary College (approx ~14476 m),,,,TRUE,99.94358145
+Hamersley,6022,Primary,Nollamara Primary School,TRUE,2143.545051,2144,Nollamara Primary School (approx ~2144 m),,R20,,TRUE,30.59449547
+Hamersley,6022,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,30.59449547
+Hamersley,6022,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,30.59449547
+Hamersley,6022,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,R20,,TRUE,30.59449547
+Hamilton Hill,6163,Primary,Manning Primary School,TRUE,7839.958893,7840,Manning Primary School (approx ~7840 m),"R30 (2.3%), R40 (1.7%), R30/40 (0.4%), R60 (0.1%), R80 (0.1%)",R30,2.3,TRUE,36.12327295
+Hamilton Hill,6163,Secondary,Frenantle College,TRUE,1315.216824,1315,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1315 m)","R30 (2.3%), R40 (1.7%), R30/40 (0.4%), R60 (0.1%), R80 (0.1%)",R30,2.3,TRUE,36.12327295
+Hamilton Hill,6163,Secondary,John Curtin College of the Arts,TRUE,1315.216824,1315,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1315 m)","R30 (2.3%), R40 (1.7%), R30/40 (0.4%), R60 (0.1%), R80 (0.1%)",R30,2.3,TRUE,36.12327295
+Hamilton Hill,6163,Secondary,Melville SHS,TRUE,1315.216824,1315,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1315 m)","R30 (2.3%), R40 (1.7%), R30/40 (0.4%), R60 (0.1%), R80 (0.1%)",R30,2.3,TRUE,36.12327295
+Hammond Park,6164,Primary,Manning Primary School,TRUE,13816.17575,13816,Manning Primary School (approx ~13816 m),"R30 (1.2%), R20 (0.7%), R40 (0.4%), R35 (0.2%), R25 (0.1%), R60 (0.0%)",R30,1.2,TRUE,69.13068898
+Hammond Park,6164,Secondary,Leeming Senior High School,TRUE,7713.927007,7714,Leeming Senior High School (approx ~7714 m),"R30 (1.2%), R20 (0.7%), R40 (0.4%), R35 (0.2%), R25 (0.1%), R60 (0.0%)",R30,1.2,TRUE,69.13068898
+Harrisdale,6112,Primary,Manning Primary School,TRUE,9433.245173,9433,Manning Primary School (approx ~9433 m),"R25 (9.4%), R40 (2.2%), R30 (0.4%), R60 (0.3%)",R25,9.4,TRUE,52.49876823
+Harrisdale,6112,Secondary,Leeming Senior High School,TRUE,5144.491355,5144,Leeming Senior High School (approx ~5144 m),"R25 (9.4%), R40 (2.2%), R30 (0.4%), R60 (0.3%)",R25,9.4,TRUE,52.49876823
+Haynes,6112,Primary,Manning Primary School,TRUE,15088.26397,15088,Manning Primary School (approx ~15088 m),,R20,,TRUE,84.65208932
+Haynes,6112,Secondary,Leeming Senior High School,TRUE,10325.45668,10325,Leeming Senior High School (approx ~10325 m),,R20,,TRUE,84.65208932
+Hazelmere,6055,Primary,Bayswater Primary School,TRUE,5349.900693,5350,Bayswater Primary School (approx ~5350 m),"R5/20 (3.6%), R5/25 (0.4%), R20 (0.2%)",R5/20,3.6,TRUE,58.27419339
+Hazelmere,6055,Secondary,John Forrest Secondary College,TRUE,3762.649222,3763,John Forrest Secondary College (approx ~3763 m),"R5/20 (3.6%), R5/25 (0.4%), R20 (0.2%)",R5/20,3.6,TRUE,58.27419339
+Heathridge,6027,Primary,Balcatta PS,TRUE,12190.88042,12191,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12191 m)","R20 (4.6%), R20/40 (3.8%), R20/30 (1.4%), R20/60 (0.1%)",R20,4.6,TRUE,16.96142629
+Heathridge,6027,Primary,Osborne PS,TRUE,12190.88042,12191,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12191 m)","R20 (4.6%), R20/40 (3.8%), R20/30 (1.4%), R20/60 (0.1%)",R20,4.6,TRUE,16.96142629
+Heathridge,6027,Primary,West Balcatta PS,TRUE,12190.88042,12191,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12191 m)","R20 (4.6%), R20/40 (3.8%), R20/30 (1.4%), R20/60 (0.1%)",R20,4.6,TRUE,16.96142629
+Heathridge,6027,Secondary,Duncraig Senior High School,TRUE,2802.976991,2803,Duncraig Senior High School (approx ~2803 m),"R20 (4.6%), R20/40 (3.8%), R20/30 (1.4%), R20/60 (0.1%)",R20,4.6,TRUE,16.96142629
+Helena Valley,6056,Primary,Bayswater Primary School,TRUE,7621.217521,7621,Bayswater Primary School (approx ~7621 m),"R5 (5.6%), R15 (1.8%), R30 (1.3%), R20 (1.1%), R12.5 (1.1%), R10 (0.5%), R20/35 (0.0%)",R5,5.6,TRUE,79.77000041
+Helena Valley,6056,Secondary,John Forrest Secondary College,TRUE,6106.802743,6107,John Forrest Secondary College (approx ~6107 m),"R5 (5.6%), R15 (1.8%), R30 (1.3%), R20 (1.1%), R12.5 (1.1%), R10 (0.5%), R20/35 (0.0%)",R5,5.6,TRUE,79.77000041
+Henderson,6166,Primary,Manning Primary School,TRUE,13384.26461,13384,Manning Primary School (approx ~13384 m),,,,TRUE,78.65000354
+Henderson,6166,Secondary,Melville Senior High School,TRUE,7013.824434,7014,Melville Senior High School (approx ~7014 m),,,,TRUE,78.65000354
+Henley Brook,6055,Primary,Morley Primary School,TRUE,9214.099407,9214,Morley Primary School (approx ~9214 m),,,,TRUE,52.42631768
+Henley Brook,6055,Secondary,John Forrest Secondary College,TRUE,9602.680702,9603,John Forrest Secondary College (approx ~9603 m),,,,TRUE,52.42631768
+Herdsman,6017,Primary,Osborne Primary School,TRUE,912.0139903,912,Osborne Primary School (approx ~912 m),,,,TRUE,0.024540785
+Herdsman,6017,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,,,,TRUE,0.024540785
+Herdsman,6017,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,,,TRUE,0.024540785
+Herne Hill,6056,Primary,Morley Primary School,TRUE,9851.521416,9852,Morley Primary School (approx ~9852 m),,,,TRUE,23.44526602
+Herne Hill,6056,Secondary,John Forrest Secondary College,TRUE,8876.987561,8877,John Forrest Secondary College (approx ~8877 m),,,,TRUE,23.44526602
+High Wycombe,6057,Primary,Bayswater Primary School,TRUE,4433.418766,4433,Bayswater Primary School (approx ~4433 m),"R20 (4.4%), R20/30 (2.4%), R25 (2.2%), R25/40 (1.8%), R17.5 (0.3%), R30 (0.3%), R25/60 (0.2%), R20/40 (0.0%)",R20,4.4,TRUE,43.65504478
+High Wycombe,6057,Secondary,John Forrest Secondary College,TRUE,4157.962099,4158,John Forrest Secondary College (approx ~4158 m),"R20 (4.4%), R20/30 (2.4%), R25 (2.2%), R25/40 (1.8%), R17.5 (0.3%), R30 (0.3%), R25/60 (0.2%), R20/40 (0.0%)",R20,4.4,TRUE,43.65504478
+Highgate,6003,Primary,Maylands Peninsula Primary School,TRUE,289.2966525,289,Maylands Peninsula Primary School (approx ~289 m),"R50 (12.9%), R80 (4.5%), R100 (0.7%)",R50,12.9,FALSE,0
+Highgate,6003,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R50 (12.9%), R80 (4.5%), R100 (0.7%)",R50,12.9,FALSE,0
+Hilbert,6112,Primary,Manning Primary School,TRUE,16511.12642,16511,Manning Primary School (approx ~16511 m),,,,TRUE,87.87395991
+Hilbert,6112,Secondary,Leeming Senior High School,TRUE,11699.82762,11700,Leeming Senior High School (approx ~11700 m),,,,TRUE,87.87395991
+Hillarys,6025,Primary,Balcatta PS,TRUE,8254.721607,8255,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~8255 m)","R20 (6.2%), R80 (0.1%)",R20,6.2,TRUE,21.97924581
+Hillarys,6025,Primary,Osborne PS,TRUE,8254.721607,8255,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~8255 m)","R20 (6.2%), R80 (0.1%)",R20,6.2,TRUE,21.97924581
+Hillarys,6025,Primary,West Balcatta PS,TRUE,8254.721607,8255,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~8255 m)","R20 (6.2%), R80 (0.1%)",R20,6.2,TRUE,21.97924581
+Hillarys,6025,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,"R20 (6.2%), R80 (0.1%)",R20,6.2,TRUE,21.97924581
+Hilton,6163,Primary,Manning Primary School,TRUE,6995.55079,6996,Manning Primary School (approx ~6996 m),"R30 (6.2%), R40 (0.2%)",R30,6.2,TRUE,2.413504921
+Hilton,6163,Secondary,Melville Senior High School,TRUE,497.3308923,497,Melville Senior High School (approx ~497 m),"R30 (6.2%), R40 (0.2%)",R30,6.2,TRUE,2.413504921
+Hocking,6065,Primary,Dianella Heights Primary School,TRUE,10641.50693,10642,Dianella Heights Primary School (approx ~10642 m),"R20 (44.2%), R40 (6.4%), R30 (4.6%)",R20,44.2,TRUE,17.60559634
+Hocking,6065,Secondary,Duncraig Senior High School,TRUE,5523.753456,5524,Duncraig Senior High School (approx ~5524 m),"R20 (44.2%), R40 (6.4%), R30 (4.6%)",R20,44.2,TRUE,17.60559634
+Hope Valley,6165,Primary,Manning Primary School,TRUE,16817.28821,16817,Manning Primary School (approx ~16817 m),,,,TRUE,59.74085949
+Hope Valley,6165,Secondary,Leeming Senior High School,TRUE,10702.20737,10702,Leeming Senior High School (approx ~10702 m),,,,TRUE,59.74085949
+Hovea,6071,Primary,Bayswater Primary School,TRUE,12824.70715,12825,Bayswater Primary School (approx ~12825 m),,,,TRUE,99.78561034
+Hovea,6071,Secondary,John Forrest Secondary College,TRUE,11220.72304,11221,John Forrest Secondary College (approx ~11221 m),,,,TRUE,99.78561034
+Huntingdale,6110,Primary,Lathlain Primary School,TRUE,8935.876219,8936,Lathlain Primary School (approx ~8936 m),"R20 (48.8%), R30 (3.3%), R35 (2.1%), R25 (0.4%), R40 (0.4%), R60 (0.1%)",R20,48.8,TRUE,42.51331023
+Huntingdale,6110,Secondary,Willeton Senior High School,TRUE,5225.592072,5226,Willeton Senior High School (approx ~5226 m),"R20 (48.8%), R30 (3.3%), R35 (2.1%), R25 (0.4%), R40 (0.4%), R60 (0.1%)",R20,48.8,TRUE,42.51331023
+Iluka,6028,Primary,Balcatta PS,TRUE,16641.78316,16642,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16642 m)",R20 (7.9%),R20,7.9,TRUE,33.10855647
+Iluka,6028,Primary,Osborne PS,TRUE,16641.78316,16642,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16642 m)",R20 (7.9%),R20,7.9,TRUE,33.10855647
+Iluka,6028,Primary,West Balcatta PS,TRUE,16641.78316,16642,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~16642 m)",R20 (7.9%),R20,7.9,TRUE,33.10855647
+Iluka,6028,Secondary,Duncraig Senior High School,TRUE,5924.562915,5925,Duncraig Senior High School (approx ~5925 m),R20 (7.9%),R20,7.9,TRUE,33.10855647
+Inglewood,6052,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Primary,Inglewood PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Primary,Maylands Peninsula PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Primary,Sutherland Dianella Primary School,FALSE,,,Sutherland Dianella Primary School,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Primary,Yokine Primary School,FALSE,,,Yokine Primary School,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Inglewood,6052,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R-AC0 (0.7%), R35 (0.0%), R160 (0.0%)",R-AC0,0.7,FALSE,0
+Innaloo,6018,Primary,Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,R30,,FALSE,0
+Innaloo,6018,Primary,Osborne PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,R30,,FALSE,0
+Innaloo,6018,Primary,West Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Balcatta SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R30,,FALSE,0
+Innaloo,6018,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,R30,,FALSE,0
+Jandabup,6077,Primary,Dianella Heights Primary School,TRUE,12210.96987,12211,Dianella Heights Primary School (approx ~12211 m),,,,TRUE,90.73560605
+Jandabup,6077,Secondary,Duncraig Senior High School,TRUE,8356.841544,8357,Duncraig Senior High School (approx ~8357 m),,,,TRUE,90.73560605
+Jandakot,6164,Primary,Manning Primary School,TRUE,5601.46818,5601,Manning Primary School (approx ~5601 m),R20 (0.0%),R20,0,TRUE,65.63309158
+Jandakot,6164,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,R20 (0.0%),R20,0,TRUE,65.63309158
+Jane Brook,6056,Primary,Bayswater Primary School,TRUE,12071.66583,12072,Bayswater Primary School (approx ~12072 m),"R20 (4.8%), R15 (4.5%), R5 (1.2%), R12.5 (0.6%), R10 (0.5%), R30 (0.4%), R2 (0.2%)",R20,4.8,TRUE,80.87486491
+Jane Brook,6056,Secondary,John Forrest Secondary College,TRUE,9977.282879,9977,John Forrest Secondary College (approx ~9977 m),"R20 (4.8%), R15 (4.5%), R5 (1.2%), R12.5 (0.6%), R10 (0.5%), R30 (0.4%), R2 (0.2%)",R20,4.8,TRUE,80.87486491
+Jindalee,6036,Secondary,Duncraig Senior High School,TRUE,16536.97305,16537,Duncraig Senior High School (approx ~16537 m),"R20 (14.8%), R40 (1.1%), R30 (1.0%), R60 (0.6%), R25 (0.1%)",R20,14.8,TRUE,61.47707853
+Jolimont,6014,Primary,Osborne Primary School,TRUE,3246.996527,3247,Osborne Primary School (approx ~3247 m),"R20 (4.5%), R80 (2.5%), R160 (1.3%), R30 (0.1%)",R20,4.5,TRUE,2.747578098
+Jolimont,6014,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (4.5%), R80 (2.5%), R160 (1.3%), R30 (0.1%)",R20,4.5,TRUE,2.747578098
+Joondalup,6027,Primary,Balcatta PS,TRUE,13711.74941,13712,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13712 m)","R20 (10.0%), R20/60 (1.5%), R10 (0.6%), R20/40 (0.4%), R40 (0.3%), R5 (0.2%), R60 (0.0%)",R20,10,TRUE,39.57666315
+Joondalup,6027,Primary,Osborne PS,TRUE,13711.74941,13712,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13712 m)","R20 (10.0%), R20/60 (1.5%), R10 (0.6%), R20/40 (0.4%), R40 (0.3%), R5 (0.2%), R60 (0.0%)",R20,10,TRUE,39.57666315
+Joondalup,6027,Primary,West Balcatta PS,TRUE,13711.74941,13712,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13712 m)","R20 (10.0%), R20/60 (1.5%), R10 (0.6%), R20/40 (0.4%), R40 (0.3%), R5 (0.2%), R60 (0.0%)",R20,10,TRUE,39.57666315
+Joondalup,6027,Secondary,Duncraig Senior High School,TRUE,4003.758602,4004,Duncraig Senior High School (approx ~4004 m),"R20 (10.0%), R20/60 (1.5%), R10 (0.6%), R20/40 (0.4%), R40 (0.3%), R5 (0.2%), R60 (0.0%)",R20,10,TRUE,39.57666315
+Joondanna,6060,Primary,Coolbinia PS,FALSE,,,"Coolbinia PS, Kyilla PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Coolbinia PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Kyilla PS,FALSE,,,"Coolbinia PS, Kyilla PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Kyilla PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Osborne PS,FALSE,,,"Tuart Hill PS, Osborne PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Osborne PS","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Primary,Tuart Hill Primary School,FALSE,,,Tuart Hill Primary School,"R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Joondanna,6060,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R40 (25.7%), R50 (8.4%)",R40,25.7,FALSE,0
+Kalamunda,6076,Primary,Carlisle Primary School,TRUE,8917.909413,8918,Carlisle Primary School (approx ~8918 m),"R5 (13.2%), R10/20 (3.5%), R10 (1.5%), R-AC0 (1.2%), R10/30 (0.5%), R30 (0.5%), R20 (0.4%), R30/40 (0.1%)",R5,13.2,TRUE,94.9481763
+Kalamunda,6076,Secondary,John Forrest Secondary College,TRUE,8946.555709,8947,John Forrest Secondary College (approx ~8947 m),"R5 (13.2%), R10/20 (3.5%), R10 (1.5%), R-AC0 (1.2%), R10/30 (0.5%), R30 (0.5%), R20 (0.4%), R30/40 (0.1%)",R5,13.2,TRUE,94.9481763
+Kallaroo,6025,Primary,Balcatta PS,TRUE,10621.54882,10622,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~10622 m)",R20/40 (1.9%),R20/40,1.9,TRUE,20.20512992
+Kallaroo,6025,Primary,Osborne PS,TRUE,10621.54882,10622,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~10622 m)",R20/40 (1.9%),R20/40,1.9,TRUE,20.20512992
+Kallaroo,6025,Primary,West Balcatta PS,TRUE,10621.54882,10622,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~10622 m)",R20/40 (1.9%),R20/40,1.9,TRUE,20.20512992
+Kallaroo,6025,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,R20/40 (1.9%),R20/40,1.9,TRUE,20.20512992
+Karawara,6152,Primary,Curtin PS,FALSE,,,"Curtin PS, Manning PS",,,,FALSE,0
+Karawara,6152,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,,,,FALSE,0
+Karawara,6152,Primary,Manning PS,FALSE,,,"Curtin PS, Manning PS",,,,FALSE,0
+Karawara,6152,Secondary,Como Secondary College,FALSE,,,Como Secondary College,,,,FALSE,0
+Kardinya,6163,Primary,Manning Primary School,TRUE,4054.122226,4054,Manning Primary School (approx ~4054 m),"R20 (16.4%), R25 (10.5%), R40 (3.4%), R60 (1.7%), R-AC0 (1.5%), R80 (0.2%)",R20,16.4,TRUE,1.913359195
+Kardinya,6163,Secondary,Applecross SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (16.4%), R25 (10.5%), R40 (3.4%), R60 (1.7%), R-AC0 (1.5%), R80 (0.2%)",R20,16.4,TRUE,1.913359195
+Kardinya,6163,Secondary,Melville SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (16.4%), R25 (10.5%), R40 (3.4%), R60 (1.7%), R-AC0 (1.5%), R80 (0.2%)",R20,16.4,TRUE,1.913359195
+Kardinya,6163,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (16.4%), R25 (10.5%), R40 (3.4%), R60 (1.7%), R-AC0 (1.5%), R80 (0.2%)",R20,16.4,TRUE,1.913359195
+Karragullen,6111,Primary,Lathlain Primary School,TRUE,18031.66478,18032,Lathlain Primary School (approx ~18032 m),,,,TRUE,96.85925554
+Karragullen,6111,Secondary,Rossmoyne Senior High School,TRUE,17256.00758,17256,Rossmoyne Senior High School (approx ~17256 m),,,,TRUE,96.85925554
+Karrakatta,6010,Primary,South Perth Primary School,TRUE,3652.405416,3652,South Perth Primary School (approx ~3652 m),,,,TRUE,31.53253468
+Karrakatta,6010,Secondary,Shenton College,FALSE,,,Shenton College,,,,TRUE,31.53253468
+Karrakup,6122,Secondary,Leeming Senior High School,TRUE,19125.31245,19125,Leeming Senior High School (approx ~19125 m),R5 (0.0%),R5,0,TRUE,97.63871259
+Karrinyup,6018,Primary,Balcatta PS,TRUE,1247.884976,1248,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1248 m)",,R20,,TRUE,19.17224031
+Karrinyup,6018,Primary,Osborne PS,TRUE,1247.884976,1248,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1248 m)",,R20,,TRUE,19.17224031
+Karrinyup,6018,Primary,West Balcatta PS,TRUE,1247.884976,1248,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1248 m)",,R20,,TRUE,19.17224031
+Karrinyup,6018,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,19.17224031
+Karrinyup,6018,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R20,,TRUE,19.17224031
+Karrinyup,6018,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",,R20,,TRUE,19.17224031
+Karrinyup,6018,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,R20,,TRUE,19.17224031
+Karrinyup,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",,R20,,TRUE,19.17224031
+Kelmscott,6111,Primary,Lathlain Primary School,TRUE,13720.91026,13721,Lathlain Primary School (approx ~13721 m),"R15/25 (7.9%), R10/25 (5.6%), R5 (3.6%), R25/60 (2.6%), R15/40 (0.8%), R25/40 (0.6%), R15/60 (0.5%), R2.5 (0.5%)",R15/25,7.9,TRUE,71.57594556
+Kelmscott,6111,Secondary,Willeton Senior High School,TRUE,11006.71888,11007,Willeton Senior High School (approx ~11007 m),"R15/25 (7.9%), R10/25 (5.6%), R5 (3.6%), R25/60 (2.6%), R15/40 (0.8%), R25/40 (0.6%), R15/60 (0.5%), R2.5 (0.5%)",R15/25,7.9,TRUE,71.57594556
+Kensington,6151,Primary,Collier PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Collier Primary School,FALSE,,,Collier Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Como Primary School,FALSE,,,Como Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Kensington PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Kensington Primary School,FALSE,,,Kensington Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,Millen Primary School,FALSE,,,Millen Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,South Perth PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Primary,South Perth Primary School,FALSE,,,South Perth Primary School,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Secondary,Como Secondary College,FALSE,,,"Como Secondary College, Kent St SHS","R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kensington,6151,Secondary,Kent St SHS,FALSE,,,"Como Secondary College, Kent St SHS","R15 (26.6%), R80 (2.0%), R60 (1.4%), R40 (1.3%), R30 (0.4%), R50 (0.4%), R100 (0.3%), R-AC3 (0.0%)",R15,26.6,TRUE,14.50906912
+Kenwick,6107,Primary,Lathlain Primary School,TRUE,4475.756096,4476,Lathlain Primary School (approx ~4476 m),"R20 (5.6%), R30 (3.0%), R40 (0.6%), R17.5 (0.5%), R80 (0.3%), R100 (0.3%), R50 (0.1%), R60 (0.1%)",R20,5.6,TRUE,68.32916965
+Kenwick,6107,Secondary,Rossmoyne Senior High School,TRUE,4205.598174,4206,Rossmoyne Senior High School (approx ~4206 m),"R20 (5.6%), R30 (3.0%), R40 (0.6%), R17.5 (0.5%), R80 (0.3%), R100 (0.3%), R50 (0.1%), R60 (0.1%)",R20,5.6,TRUE,68.32916965
+Kewdale,6105,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,"R20 (5.1%), R20/40 (1.7%), R20/50/100 (1.1%), R20/60 (0.2%), R40 (0.2%)",R20,5.1,TRUE,15.44109918
+Kewdale,6105,Primary,Rivervale Primary School,FALSE,,,Rivervale Primary School,"R20 (5.1%), R20/40 (1.7%), R20/50/100 (1.1%), R20/60 (0.2%), R40 (0.2%)",R20,5.1,TRUE,15.44109918
+Kewdale,6105,Secondary,John Forrest Secondary College,TRUE,2062.121431,2062,John Forrest Secondary College (approx ~2062 m),"R20 (5.1%), R20/40 (1.7%), R20/50/100 (1.1%), R20/60 (0.2%), R40 (0.2%)",R20,5.1,TRUE,15.44109918
+Kiara,6054,Primary,Embleton Primary School,TRUE,2128.730099,2129,Embleton Primary School (approx ~2129 m),"R20 (23.6%), R20/50 (4.2%), R20/35 (1.1%), R40 (0.8%)",R20,23.6,TRUE,37.94997967
+Kiara,6054,Secondary,John Forrest Secondary College,TRUE,1831.793576,1832,John Forrest Secondary College (approx ~1832 m),"R20 (23.6%), R20/50 (4.2%), R20/35 (1.1%), R40 (0.8%)",R20,23.6,TRUE,37.94997967
+Kings Park,6005,Primary,South Perth Primary School,TRUE,225.8443926,226,South Perth Primary School (approx ~226 m),R160 (0.1%),R160,0.1,TRUE,95.75229386
+Kings Park,6005,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,R160 (0.1%),R160,0.1,TRUE,95.75229386
+Kings Park,6005,Secondary,Shenton College,FALSE,,,Shenton College,R160 (0.1%),R160,0.1,TRUE,95.75229386
+Kingsley,6026,Primary,Nollamara Primary School,TRUE,6505.719101,6506,Nollamara Primary School (approx ~6506 m),"R20 (2.8%), R20/40 (2.5%), R20/60 (0.4%), R40 (0.0%)",R20,2.8,TRUE,33.60460733
+Kingsley,6026,Secondary,Carine Senior High School,TRUE,1883.472826,1883,Carine Senior High School (approx ~1883 m),"R20 (2.8%), R20/40 (2.5%), R20/60 (0.4%), R40 (0.0%)",R20,2.8,TRUE,33.60460733
+Kinross,6028,Primary,Balcatta PS,TRUE,18399.30414,18399,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18399 m)","R20 (18.1%), R25 (7.8%), R40 (2.7%), R30 (0.1%)",R20,18.1,TRUE,15.56969117
+Kinross,6028,Primary,Osborne PS,TRUE,18399.30414,18399,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18399 m)","R20 (18.1%), R25 (7.8%), R40 (2.7%), R30 (0.1%)",R20,18.1,TRUE,15.56969117
+Kinross,6028,Primary,West Balcatta PS,TRUE,18399.30414,18399,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18399 m)","R20 (18.1%), R25 (7.8%), R40 (2.7%), R30 (0.1%)",R20,18.1,TRUE,15.56969117
+Kinross,6028,Secondary,Duncraig Senior High School,TRUE,7768.872404,7769,Duncraig Senior High School (approx ~7769 m),"R20 (18.1%), R25 (7.8%), R40 (2.7%), R30 (0.1%)",R20,18.1,TRUE,15.56969117
+Koondoola,6064,Primary,Dianella Heights Primary School,TRUE,1914.881632,1915,Dianella Heights Primary School (approx ~1915 m),,,,TRUE,54.09945312
+Koondoola,6064,Secondary,John Forrest Secondary College,TRUE,4416.001436,4416,John Forrest Secondary College (approx ~4416 m),,,,TRUE,54.09945312
+Koongamia,6056,Primary,Bayswater Primary School,TRUE,9764.973066,9765,Bayswater Primary School (approx ~9765 m),"R20/35 (32.1%), R20/50 (4.5%), R20 (0.8%), R30 (0.4%)",R20/35,32.1,TRUE,9.194892298
+Koongamia,6056,Secondary,John Forrest Secondary College,TRUE,8299.45384,8299,John Forrest Secondary College (approx ~8299 m),"R20/35 (32.1%), R20/50 (4.5%), R20 (0.8%), R30 (0.4%)",R20/35,32.1,TRUE,9.194892298
+Kwinana Beach,6167,Secondary,Lakelands SHS,TRUE,14471.67408,14472,"Leeming SHS, Lakelands SHS (approx ~14472 m)",,,,TRUE,55.50649857
+Kwinana Beach,6167,Secondary,Leeming SHS,TRUE,14471.67408,14472,"Leeming SHS, Lakelands SHS (approx ~14472 m)",,,,TRUE,55.50649857
+Kwinana Town Centre,6167,Secondary,Leeming Senior High School,TRUE,17354.06259,17354,Leeming Senior High School (approx ~17354 m),,,,TRUE,54.28564715
+Lake Coogee,6166,Primary,Manning Primary School,TRUE,11162.24295,11162,Manning Primary School (approx ~11162 m),"R30 (0.7%), R25 (0.2%), R20 (0.2%), R40 (0.2%), R60 (0.1%)",R30,0.7,TRUE,48.07937655
+Lake Coogee,6166,Secondary,Melville Senior High School,TRUE,4862.48026,4862,Melville Senior High School (approx ~4862 m),"R30 (0.7%), R25 (0.2%), R20 (0.2%), R40 (0.2%), R60 (0.1%)",R30,0.7,TRUE,48.07937655
+Landsdale,6065,Primary,Dianella Heights Primary School,TRUE,5058.433573,5058,Dianella Heights Primary School (approx ~5058 m),,,,TRUE,24.20671484
+Landsdale,6065,Secondary,Carine Senior High School,TRUE,5358.263679,5358,Carine Senior High School (approx ~5358 m),,,,TRUE,24.20671484
+Langford,6147,Primary,Lathlain Primary School,TRUE,4104.607442,4105,Lathlain Primary School (approx ~4105 m),"R20 (21.9%), R40 (5.9%), R30 (0.4%)",R20,21.9,TRUE,33.85814545
+Langford,6147,Secondary,Rossmoyne Senior High School,TRUE,2086.31174,2086,Rossmoyne Senior High School (approx ~2086 m),"R20 (21.9%), R40 (5.9%), R30 (0.4%)",R20,21.9,TRUE,33.85814545
+Lathlain,6100,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,"R20 (41.4%), R60 (2.1%), R-AC0 (0.7%), R-AC4 (0.1%), R40 (0.1%)",R20,41.4,FALSE,0
+Lathlain,6100,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R20 (41.4%), R60 (2.1%), R-AC0 (0.7%), R-AC4 (0.1%), R40 (0.1%)",R20,41.4,FALSE,0
+Lathlain,6100,Secondary,John Forrest Secondary College,TRUE,735.0211397,735,John Forrest Secondary College (approx ~735 m),"R20 (41.4%), R60 (2.1%), R-AC0 (0.7%), R-AC4 (0.1%), R40 (0.1%)",R20,41.4,FALSE,0
+Leda,6170,Secondary,Leeming Senior High School,TRUE,18820.74091,18821,Leeming Senior High School (approx ~18821 m),,,,TRUE,90.93988741
+Leederville,6007,Primary,Coolbinia PS,TRUE,1005.298196,1005,"Coolbinia PS, Kyilla PS (approx ~1005 m)","R30 (4.5%), R40 (2.1%), R60 (1.6%), R100 (0.5%)",R30,4.5,FALSE,0
+Leederville,6007,Primary,Kyilla PS,TRUE,1005.298196,1005,"Coolbinia PS, Kyilla PS (approx ~1005 m)","R30 (4.5%), R40 (2.1%), R60 (1.6%), R100 (0.5%)",R30,4.5,FALSE,0
+Leederville,6007,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R30 (4.5%), R40 (2.1%), R60 (1.6%), R100 (0.5%)",R30,4.5,FALSE,0
+Leederville,6007,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R30 (4.5%), R40 (2.1%), R60 (1.6%), R100 (0.5%)",R30,4.5,FALSE,0
+Leeming,6149,Primary,Manning Primary School,TRUE,3601.403806,3601,Manning Primary School (approx ~3601 m),"R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Lakelands SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Leeming SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Leeming SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Willeton SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Leeming,6149,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,"R20 (24.5%), R40 (0.9%), R30 (0.2%)",R20,24.5,TRUE,28.1194345
+Lesmurdie,6076,Primary,Lathlain Primary School,TRUE,8667.1414,8667,Lathlain Primary School (approx ~8667 m),R5 (0.6%),R5,0.6,TRUE,99.95526252
+Lesmurdie,6076,Secondary,Como Secondary College,TRUE,9577.698496,9578,Como Secondary College (approx ~9578 m),R5 (0.6%),R5,0.6,TRUE,99.95526252
+Lexia,6079,Primary,Dianella Heights Primary School,TRUE,8045.554318,8046,Dianella Heights Primary School (approx ~8046 m),,,,TRUE,99.14694256
+Lexia,6079,Secondary,Carine Senior High School,TRUE,9620.487426,9620,Carine Senior High School (approx ~9620 m),,,,TRUE,99.14694256
+Lockridge,6054,Primary,Embleton Primary School,TRUE,3023.020392,3023,Embleton Primary School (approx ~3023 m),"R20/35 (7.7%), R20/50 (6.3%), R30 (1.7%), R20/40 (0.5%), R35 (0.4%), R30/50 (0.2%), R20 (0.1%)",R20/35,7.7,TRUE,4.96375218
+Lockridge,6054,Secondary,John Forrest Secondary College,TRUE,1967.408447,1967,John Forrest Secondary College (approx ~1967 m),"R20/35 (7.7%), R20/50 (6.3%), R30 (1.7%), R20/40 (0.5%), R35 (0.4%), R30/50 (0.2%), R20 (0.1%)",R20/35,7.7,TRUE,4.96375218
+Lynwood,6147,Primary,Curtin PS,TRUE,3631.966951,3632,"Curtin PS, Manning PS (approx ~3632 m)","R30 (6.4%), R20 (1.7%)",R30,6.4,TRUE,19.00039719
+Lynwood,6147,Primary,Manning PS,TRUE,3631.966951,3632,"Curtin PS, Manning PS (approx ~3632 m)","R30 (6.4%), R20 (1.7%)",R30,6.4,TRUE,19.00039719
+Lynwood,6147,Secondary,Rossmoyne Senior High School,TRUE,766.7542811,767,Rossmoyne Senior High School (approx ~767 m),"R30 (6.4%), R20 (1.7%)",R30,6.4,TRUE,19.00039719
+Maddington,6109,Primary,Lathlain Primary School,TRUE,7114.143053,7114,Lathlain Primary School (approx ~7114 m),"R20 (16.3%), R30 (5.9%), R160 (2.6%), R100 (1.0%), R25 (0.9%), R60 (0.2%), R40 (0.2%)",R20,16.3,TRUE,28.67241787
+Maddington,6109,Secondary,Rossmoyne Senior High School,TRUE,5717.430867,5717,Rossmoyne Senior High School (approx ~5717 m),"R20 (16.3%), R30 (5.9%), R160 (2.6%), R100 (1.0%), R25 (0.9%), R60 (0.2%), R40 (0.2%)",R20,16.3,TRUE,28.67241787
+Madeley,6065,Primary,Dianella Heights Primary School,TRUE,5757.340243,5757,Dianella Heights Primary School (approx ~5757 m),,,,TRUE,26.64992295
+Madeley,6065,Secondary,Carine Senior High School,TRUE,3251.486541,3251,Carine Senior High School (approx ~3251 m),,,,TRUE,26.64992295
+Mahogany Creek,6072,Primary,Bayswater Primary School,TRUE,17565.01135,17565,Bayswater Primary School (approx ~17565 m),,,,TRUE,99.88199416
+Mahogany Creek,6072,Secondary,John Forrest Secondary College,TRUE,16239.28278,16239,John Forrest Secondary College (approx ~16239 m),,,,TRUE,99.88199416
+Maida Vale,6057,Primary,Carlisle Primary School,TRUE,6848.515436,6849,Carlisle Primary School (approx ~6849 m),"R10 (2.3%), R20/30 (0.2%), R5 (0.0%)",R10,2.3,TRUE,99.37973414
+Maida Vale,6057,Secondary,John Forrest Secondary College,TRUE,6689.802818,6690,John Forrest Secondary College (approx ~6690 m),"R10 (2.3%), R20/30 (0.2%), R5 (0.0%)",R10,2.3,TRUE,99.37973414
+Malaga,6090,Primary,Dianella Heights Primary School,TRUE,701.012092,701,Dianella Heights Primary School (approx ~701 m),,,,TRUE,34.70585054
+Malaga,6090,Secondary,John Forrest Secondary College,TRUE,2417.504371,2418,John Forrest Secondary College (approx ~2418 m),,,,TRUE,34.70585054
+Mandogalup,6167,Primary,Manning Primary School,TRUE,16461.78969,16462,Manning Primary School (approx ~16462 m),,,,TRUE,70.0481283
+Mandogalup,6167,Secondary,Leeming Senior High School,TRUE,10366.773,10367,Leeming Senior High School (approx ~10367 m),,,,TRUE,70.0481283
+Manning,6152,Primary,Curtin PS,FALSE,,,"Curtin PS, Manning PS","R20 (8.8%), R30 (3.8%), R50 (1.6%), R60 (0.9%), R-AC4 (0.7%)",R20,8.8,FALSE,0
+Manning,6152,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,"R20 (8.8%), R30 (3.8%), R50 (1.6%), R60 (0.9%), R-AC4 (0.7%)",R20,8.8,FALSE,0
+Manning,6152,Primary,Manning PS,FALSE,,,"Curtin PS, Manning PS","R20 (8.8%), R30 (3.8%), R50 (1.6%), R60 (0.9%), R-AC4 (0.7%)",R20,8.8,FALSE,0
+Manning,6152,Primary,Manning Primary School,FALSE,,,Manning Primary School,"R20 (8.8%), R30 (3.8%), R50 (1.6%), R60 (0.9%), R-AC4 (0.7%)",R20,8.8,FALSE,0
+Manning,6152,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R20 (8.8%), R30 (3.8%), R50 (1.6%), R60 (0.9%), R-AC4 (0.7%)",R20,8.8,FALSE,0
+Marangaroo,6064,Primary,Dianella Heights Primary School,TRUE,3565.304682,3565,Dianella Heights Primary School (approx ~3565 m),,,,TRUE,22.72014833
+Marangaroo,6064,Secondary,Carine Senior High School,TRUE,2618.860506,2619,Carine Senior High School (approx ~2619 m),,,,TRUE,22.72014833
+Mariginiup,6078,Primary,Dianella Heights Primary School,TRUE,15251.16353,15251,Dianella Heights Primary School (approx ~15251 m),,,,TRUE,93.7283586
+Mariginiup,6078,Secondary,Duncraig Senior High School,TRUE,8362.26886,8362,Duncraig Senior High School (approx ~8362 m),,,,TRUE,93.7283586
+Marmion,6020,Primary,Balcatta PS,TRUE,5329.251508,5329,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~5329 m)","R20 (34.3%), R20/25 (5.2%), R40 (0.2%)",R20,34.3,TRUE,11.09835348
+Marmion,6020,Primary,Osborne PS,TRUE,5329.251508,5329,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~5329 m)","R20 (34.3%), R20/25 (5.2%), R40 (0.2%)",R20,34.3,TRUE,11.09835348
+Marmion,6020,Primary,West Balcatta PS,TRUE,5329.251508,5329,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~5329 m)","R20 (34.3%), R20/25 (5.2%), R40 (0.2%)",R20,34.3,TRUE,11.09835348
+Marmion,6020,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,"R20 (34.3%), R20/25 (5.2%), R40 (0.2%)",R20,34.3,TRUE,11.09835348
+Marmion,6020,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,"R20 (34.3%), R20/25 (5.2%), R40 (0.2%)",R20,34.3,TRUE,11.09835348
+Martin,6110,Primary,Lathlain Primary School,TRUE,10146.97499,10147,Lathlain Primary School (approx ~10147 m),"R20 (0.5%), R40 (0.0%), R25 (0.0%), R30 (0.0%)",R20,0.5,TRUE,97.80929681
+Martin,6110,Secondary,Rossmoyne Senior High School,TRUE,8658.28815,8658,Rossmoyne Senior High School (approx ~8658 m),"R20 (0.5%), R40 (0.0%), R25 (0.0%), R30 (0.0%)",R20,0.5,TRUE,97.80929681
+Maylands,6051,Primary,Bayswater PS,FALSE,,,"Maylands Peninsula PS, Bayswater PS","R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Primary,Inglewood PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,"R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Primary,Maylands Peninsula PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Primary,Maylands Peninsula PS,FALSE,,,"Maylands Peninsula PS, Bayswater PS","R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Primary,Maylands Peninsula Primary School,FALSE,,,Maylands Peninsula Primary School,"R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Maylands,6051,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R50 (8.6%), R30 (8.1%), R40 (4.8%), R-AC0 (2.7%), R20 (2.3%), R60 (2.1%), R25 (0.0%), R-AC3 (0.0%)",R50,8.6,TRUE,12.8555785
+Medina,6167,Secondary,Leeming Senior High School,TRUE,16063.9022,16064,Leeming Senior High School (approx ~16064 m),,,,TRUE,61.48854054
+Melaleuca,6079,Primary,Dianella Heights Primary School,TRUE,11759.68557,11760,Dianella Heights Primary School (approx ~11760 m),,,,TRUE,98.66894485
+Melaleuca,6079,Secondary,Carine Senior High School,TRUE,11947.19645,11947,Carine Senior High School (approx ~11947 m),,,,TRUE,98.66894485
+Melville,6156,Primary,Manning Primary School,TRUE,4567.571867,4568,Manning Primary School (approx ~4568 m),"R20 (42.6%), R40 (11.3%), R30/40 (1.8%), R35 (0.4%), R-AC0 (0.3%)",R20,42.6,FALSE,0
+Melville,6156,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (42.6%), R40 (11.3%), R30/40 (1.8%), R35 (0.4%), R-AC0 (0.3%)",R20,42.6,FALSE,0
+Menora,6050,Primary,Coolbinia PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Menora,6050,Primary,Coolbinia PS,FALSE,,,"Coolbinia PS, Kyilla PS","R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Menora,6050,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Menora,6050,Primary,Kyilla PS,FALSE,,,"Coolbinia PS, Kyilla PS","R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Menora,6050,Primary,Mt Lawley PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Menora,6050,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R20 (12.6%), R12.5 (10.4%), R10 (0.9%)",R20,12.6,FALSE,0
+Merriwa,6030,Secondary,Duncraig Senior High School,TRUE,13726.08365,13726,Duncraig Senior High School (approx ~13726 m),"R20 (88.5%), R40 (3.2%)",R20,88.5,TRUE,1.539292933
+Middle Swan,6056,Primary,Embleton Primary School,TRUE,8378.896798,8379,Embleton Primary School (approx ~8379 m),"R17.5 (2.3%), R20 (0.8%), R20/35 (0.6%), R20/40 (0.4%), R60 (0.0%), R40 (0.0%)",R17.5,2.3,TRUE,40.1580538
+Middle Swan,6056,Secondary,John Forrest Secondary College,TRUE,6233.46502,6233,John Forrest Secondary College (approx ~6233 m),"R17.5 (2.3%), R20 (0.8%), R20/35 (0.6%), R20/40 (0.4%), R60 (0.0%), R40 (0.0%)",R17.5,2.3,TRUE,40.1580538
+Midland,6056,Primary,Bayswater Primary School,TRUE,7020.168444,7020,Bayswater Primary School (approx ~7020 m),"R40/60 (4.6%), R60/80 (3.3%), R20 (2.7%), R20/35 (2.6%), R60 (1.7%), R60/100 (1.4%), R40 (1.2%), R20/40 (1.0%), R20/50 (0.9%), R100 (0.9%), R40/80 (0.9%), R20/60 (0.2%)",R40/60,4.6,TRUE,13.45126095
+Midland,6056,Secondary,John Forrest Secondary College,TRUE,4995.867171,4996,John Forrest Secondary College (approx ~4996 m),"R40/60 (4.6%), R60/80 (3.3%), R20 (2.7%), R20/35 (2.6%), R60 (1.7%), R60/100 (1.4%), R40 (1.2%), R20/40 (1.0%), R20/50 (0.9%), R100 (0.9%), R40/80 (0.9%), R20/60 (0.2%)",R40/60,4.6,TRUE,13.45126095
+Midvale,6056,Primary,Bayswater Primary School,TRUE,8771.074621,8771,Bayswater Primary School (approx ~8771 m),"R20/50 (3.1%), R40 (1.7%), R40/50 (0.4%), R20 (0.1%), R20/35 (0.0%)",R20/50,3.1,TRUE,22.65686825
+Midvale,6056,Secondary,John Forrest Secondary College,TRUE,6947.379071,6947,John Forrest Secondary College (approx ~6947 m),"R20/50 (3.1%), R40 (1.7%), R40/50 (0.4%), R20 (0.1%), R20/35 (0.0%)",R20/50,3.1,TRUE,22.65686825
+Millendon,6056,Primary,Morley Primary School,TRUE,11897.16004,11897,Morley Primary School (approx ~11897 m),,,,TRUE,46.02574281
+Millendon,6056,Secondary,John Forrest Secondary College,TRUE,11845.59218,11846,John Forrest Secondary College (approx ~11846 m),,,,TRUE,46.02574281
+Mindarie,6030,Secondary,Duncraig Senior High School,TRUE,9604.637887,9605,Duncraig Senior High School (approx ~9605 m),"R20 (38.4%), R40 (1.6%), R30 (0.2%)",R20,38.4,TRUE,51.4467953
+Mirrabooka,6061,Primary,Dianella Heights Primary School,FALSE,,,Dianella Heights Primary School,,,,TRUE,35.1988241
+Mirrabooka,6061,Secondary,John Forrest Secondary College,TRUE,1930.731019,1931,John Forrest Secondary College (approx ~1931 m),,,,TRUE,35.1988241
+Morley,6062,Primary,Embleton Primary School,FALSE,,,Embleton Primary School,"R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,Hillcrest Primary School,FALSE,,,Hillcrest Primary School,"R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,Morley PS,FALSE,,,"West Morley PS, Morley PS","R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,Morley Primary School,FALSE,,,Morley Primary School,"R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,North Morley PS,FALSE,,,"West Morley PS, North Morley PS","R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,West Morley PS,FALSE,,,"West Morley PS, Morley PS","R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,West Morley PS,FALSE,,,"West Morley PS, North Morley PS","R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Primary,West Morley Primary School,FALSE,,,West Morley Primary School,"R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Morley,6062,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,"R25 (15.3%), R40 (0.1%), R30 (0.0%), R20/35 (0.0%), R20/50 (0.0%)",R25,15.3,TRUE,0.095235072
+Mosman Park,6012,Primary,Como Primary School,TRUE,6806.076083,6806,Como Primary School (approx ~6806 m),"R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mosman Park,6012,Secondary,Fremantle College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mosman Park,6012,Secondary,John Curtin College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mosman Park,6012,Secondary,Melville SHS,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mosman Park,6012,Secondary,Shenton College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mosman Park,6012,Secondary,Shenton College,FALSE,,,Shenton College,"R40 (5.5%), R20 (4.4%), R12.5 (3.4%), R15 (1.1%), R20/25 (1.0%), R17.5 (0.9%), R25 (0.8%), R60 (0.7%), R-AC3 (0.5%), R80 (0.3%), R12.5/25 (0.2%), R50 (0.2%), R30 (0.1%), R15/25 (0.1%)",R40,5.5,TRUE,20.43294952
+Mount Claremont,6010,Primary,South Perth Primary School,TRUE,4540.691127,4541,South Perth Primary School (approx ~4541 m),"R20 (14.0%), R12.5 (5.1%), R25 (2.2%), R30 (1.8%), R40 (0.9%), R50 (0.7%), R60 (0.1%)",R20,14,TRUE,30.51812376
+Mount Claremont,6010,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (14.0%), R12.5 (5.1%), R25 (2.2%), R30 (1.8%), R40 (0.9%), R50 (0.7%), R60 (0.1%)",R20,14,TRUE,30.51812376
+Mount Hawthorn,6016,Primary,Coolbinia PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Kyilla PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Osborne PS,FALSE,,,"Tuart Hill PS, Osborne PS","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Osborne Primary School,FALSE,,,Osborne Primary School,"R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Osborne PS","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Primary,Tuart Hill Primary School,FALSE,,,Tuart Hill Primary School,"R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Hawthorn,6016,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R30 (21.1%), R60 (2.8%), R100 (2.2%), R20 (1.9%), R80 (0.9%), R40 (0.7%), R-AC2 (0.3%)",R30,21.1,FALSE,0
+Mount Lawley,6050,Primary,Coolbinia PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Inglewood PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Inglewood Primary School,FALSE,,,Inglewood Primary School,"R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Maylands Peninsula PS,FALSE,,,"Inglewood PS, Maylands Peninsula PS","R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Maylands Peninsula Primary School,FALSE,,,Maylands Peninsula Primary School,"R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Primary,Mt Lawley PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Lawley,6050,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R12.5 (16.6%), R40 (10.7%), R30 (5.2%), R50 (3.9%), R20 (1.5%), R60 (0.7%), R80 (0.4%), R100 (0.3%), R-AC0 (0.2%)",R12.5,16.6,TRUE,4.935187565
+Mount Nasura,6112,Primary,Curtin PS,TRUE,16851.4182,16851,"Curtin PS, Manning PS (approx ~16851 m)","R5 (47.0%), R10/25 (18.0%), R15/25 (17.8%), R2.5 (2.3%), R15/40 (0.1%), R15 (0.1%)",R5,47,TRUE,69.05805934
+Mount Nasura,6112,Primary,Manning PS,TRUE,16851.4182,16851,"Curtin PS, Manning PS (approx ~16851 m)","R5 (47.0%), R10/25 (18.0%), R15/25 (17.8%), R2.5 (2.3%), R15/40 (0.1%), R15 (0.1%)",R5,47,TRUE,69.05805934
+Mount Nasura,6112,Secondary,Willeton Senior High School,TRUE,13076.55289,13077,Willeton Senior High School (approx ~13077 m),"R5 (47.0%), R10/25 (18.0%), R15/25 (17.8%), R2.5 (2.3%), R15/40 (0.1%), R15 (0.1%)",R5,47,TRUE,69.05805934
+Mount Pleasant,6153,Primary,Como Primary School,TRUE,121.290158,121,Como Primary School (approx ~121 m),"R20 (8.3%), R-AC0 (3.0%), R12.5 (1.3%), R60 (0.9%), R40/60 (0.3%), R40 (0.2%)",R20,8.3,TRUE,5.133315657
+Mount Pleasant,6153,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (8.3%), R-AC0 (3.0%), R12.5 (1.3%), R60 (0.9%), R40/60 (0.3%), R40 (0.2%)",R20,8.3,TRUE,5.133315657
+Mount Pleasant,6153,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (8.3%), R-AC0 (3.0%), R12.5 (1.3%), R60 (0.9%), R40/60 (0.3%), R40 (0.2%)",R20,8.3,TRUE,5.133315657
+Mount Pleasant,6153,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (8.3%), R-AC0 (3.0%), R12.5 (1.3%), R60 (0.9%), R40/60 (0.3%), R40 (0.2%)",R20,8.3,TRUE,5.133315657
+Mount Richon,6112,Primary,Curtin PS,TRUE,19093.10162,19093,"Curtin PS, Manning PS (approx ~19093 m)","R15/25 (23.2%), R-AC0 (0.1%)",R15/25,23.2,TRUE,78.42766552
+Mount Richon,6112,Primary,Manning PS,TRUE,19093.10162,19093,"Curtin PS, Manning PS (approx ~19093 m)","R15/25 (23.2%), R-AC0 (0.1%)",R15/25,23.2,TRUE,78.42766552
+Mount Richon,6112,Secondary,Willeton Senior High School,TRUE,15065.97966,15066,Willeton Senior High School (approx ~15066 m),"R15/25 (23.2%), R-AC0 (0.1%)",R15/25,23.2,TRUE,78.42766552
+Mullaloo,6027,Primary,Balcatta PS,TRUE,12026.09222,12026,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12026 m)",R20 (0.4%),R20,0.4,TRUE,27.75049314
+Mullaloo,6027,Primary,Osborne PS,TRUE,12026.09222,12026,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12026 m)",R20 (0.4%),R20,0.4,TRUE,27.75049314
+Mullaloo,6027,Primary,West Balcatta PS,TRUE,12026.09222,12026,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~12026 m)",R20 (0.4%),R20,0.4,TRUE,27.75049314
+Mullaloo,6027,Secondary,Duncraig Senior High School,TRUE,1036.880731,1037,Duncraig Senior High School (approx ~1037 m),R20 (0.4%),R20,0.4,TRUE,27.75049314
+Mundaring,6073,Primary,Bayswater Primary School,TRUE,18199.18831,18199,Bayswater Primary School (approx ~18199 m),,,,TRUE,99.73150687
+Mundaring,6073,Secondary,John Forrest Secondary College,TRUE,17174.82463,17175,John Forrest Secondary College (approx ~17175 m),,,,TRUE,99.73150687
+Munster,6166,Primary,Manning Primary School,TRUE,12667.62145,12668,Manning Primary School (approx ~12668 m),,,,TRUE,93.84740656
+Munster,6166,Secondary,Lakelands SHS,TRUE,6572.13167,6572,"Leeming SHS, Lakelands SHS (approx ~6572 m)",,,,TRUE,93.84740656
+Munster,6166,Secondary,Leeming SHS,TRUE,6572.13167,6572,"Leeming SHS, Lakelands SHS (approx ~6572 m)",,,,TRUE,93.84740656
+Murdoch,6150,Primary,Manning Primary School,TRUE,3360.373456,3360,Manning Primary School (approx ~3360 m),"R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Applecross SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Lakelands SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Leeming SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Leeming SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Melville SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Murdoch,6150,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (5.7%), R60 (0.2%)",R20,5.7,TRUE,32.69729628
+Myaree,6154,Primary,Manning Primary School,TRUE,3340.960319,3341,Manning Primary School (approx ~3341 m),"R20 (24.9%), R40 (8.3%), R25 (0.6%)",R20,24.9,FALSE,0
+Myaree,6154,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (24.9%), R40 (8.3%), R25 (0.6%)",R20,24.9,FALSE,0
+Myaree,6154,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (24.9%), R40 (8.3%), R25 (0.6%)",R20,24.9,FALSE,0
+Naval Base,6165,Primary,Manning Primary School,TRUE,17661.94538,17662,Manning Primary School (approx ~17662 m),,,,TRUE,68.56157373
+Naval Base,6165,Secondary,Lakelands SHS,TRUE,11565.20137,11565,"Leeming SHS, Lakelands SHS (approx ~11565 m)",,,,TRUE,68.56157373
+Naval Base,6165,Secondary,Leeming SHS,TRUE,11565.20137,11565,"Leeming SHS, Lakelands SHS (approx ~11565 m)",,,,TRUE,68.56157373
+Nedlands,6009,Primary,South Perth Primary School,TRUE,2488.857178,2489,South Perth Primary School (approx ~2489 m),"R12.5 (2.1%), R60 (1.6%), R10 (1.1%), R15 (0.9%), R-AC1 (0.8%), R20 (0.7%), R160 (0.7%), R-AC3 (0.4%), R40 (0.3%), R50 (0.3%)",R12.5,2.1,TRUE,3.219167457
+Nedlands,6009,Secondary,Shenton College,FALSE,,,Shenton College,"R12.5 (2.1%), R60 (1.6%), R10 (1.1%), R15 (0.9%), R-AC1 (0.8%), R20 (0.7%), R160 (0.7%), R-AC3 (0.4%), R40 (0.3%), R50 (0.3%)",R12.5,2.1,TRUE,3.219167457
+Neerabup,6031,Primary,Balcatta PS,TRUE,18523.91766,18524,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18524 m)",,,,TRUE,83.45947434
+Neerabup,6031,Primary,Osborne PS,TRUE,18523.91766,18524,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18524 m)",,,,TRUE,83.45947434
+Neerabup,6031,Primary,West Balcatta PS,TRUE,18523.91766,18524,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~18524 m)",,,,TRUE,83.45947434
+Neerabup,6031,Secondary,Duncraig Senior High School,TRUE,8143.418435,8143,Duncraig Senior High School (approx ~8143 m),,,,TRUE,83.45947434
+Nollamara,6061,Primary,Nollamara Primary School,FALSE,,,Nollamara Primary School,R-AC0 (0.5%),R-AC0,0.5,TRUE,0.531256763
+Nollamara,6061,Secondary,Mount Lawley Senior High School,TRUE,1354.296654,1354,Mount Lawley Senior High School (approx ~1354 m),R-AC0 (0.5%),R-AC0,0.5,TRUE,0.531256763
+Noranda,6062,Primary,Morley Primary School,FALSE,,,Morley Primary School,"R20/35 (1.0%), R20/40 (0.3%), R40 (0.2%)",R20/35,1,TRUE,32.62418798
+Noranda,6062,Secondary,John Forrest Secondary College,TRUE,1167.840325,1168,John Forrest Secondary College (approx ~1168 m),"R20/35 (1.0%), R20/40 (0.3%), R40 (0.2%)",R20/35,1,TRUE,32.62418798
+North Beach,6020,Primary,Balcatta PS,TRUE,3739.495494,3739,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3739 m)","R20 (3.7%), R40 (1.2%)",R20,3.7,TRUE,29.0190699
+North Beach,6020,Primary,Osborne PS,TRUE,3739.495494,3739,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3739 m)","R20 (3.7%), R40 (1.2%)",R20,3.7,TRUE,29.0190699
+North Beach,6020,Primary,West Balcatta PS,TRUE,3739.495494,3739,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3739 m)","R20 (3.7%), R40 (1.2%)",R20,3.7,TRUE,29.0190699
+North Beach,6020,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,"R20 (3.7%), R40 (1.2%)",R20,3.7,TRUE,29.0190699
+North Coogee,6163,Primary,Manning Primary School,TRUE,10676.2463,10676,Manning Primary School (approx ~10676 m),,,,TRUE,49.33057909
+North Coogee,6163,Secondary,Frenantle College,TRUE,1880.989075,1881,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1881 m)",,,,TRUE,49.33057909
+North Coogee,6163,Secondary,John Curtin College of the Arts,TRUE,1880.989075,1881,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1881 m)",,,,TRUE,49.33057909
+North Coogee,6163,Secondary,Melville SHS,TRUE,1880.989075,1881,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~1881 m)",,,,TRUE,49.33057909
+North Fremantle,6159,Primary,Como Primary School,TRUE,9006.394292,9006,Como Primary School (approx ~9006 m),"R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Fremantle,6159,Secondary,Fremantle College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Fremantle,6159,Secondary,John Curtin College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Fremantle,6159,Secondary,Melville SHS,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Fremantle,6159,Secondary,Shenton College,FALSE,,,"John Curtin College, Shenton College, Melville SHS, Fremantle College","R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Fremantle,6159,Secondary,Shenton College,FALSE,,,Shenton College,"R25 (5.2%), R60 (2.2%), R35 (1.5%), R40 (1.1%), R160 (0.1%), R12.5 (0.0%), R30 (0.0%)",R25,5.2,TRUE,4.02136461
+North Lake,6163,Primary,Manning Primary School,TRUE,5174.04236,5174,Manning Primary School (approx ~5174 m),"R20 (14.0%), R25 (0.1%)",R20,14,TRUE,61.3663399
+North Lake,6163,Secondary,Lakelands SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (14.0%), R25 (0.1%)",R20,14,TRUE,61.3663399
+North Lake,6163,Secondary,Leeming SHS,FALSE,,,"Leeming SHS, Lakelands SHS","R20 (14.0%), R25 (0.1%)",R20,14,TRUE,61.3663399
+North Lake,6163,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (14.0%), R25 (0.1%)",R20,14,TRUE,61.3663399
+North Lake,6163,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (14.0%), R25 (0.1%)",R20,14,TRUE,61.3663399
+North Perth,6006,Primary,Coolbinia PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Coolbinia PS,FALSE,,,"Coolbinia PS, Kyilla PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Coolbinia PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,"R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Kyilla PS,FALSE,,,"Coolbinia PS, Kyilla PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Kyilla PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Mt Lawley PS,FALSE,,,"Mt Lawley PS, Coolbinia PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Primary,Tuart Hill Primary School,FALSE,,,Tuart Hill Primary School,"R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+North Perth,6006,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R40 (5.9%), R30/40 (2.6%), R60/100 (1.6%), R30 (0.5%), R60 (0.5%), R80 (0.5%), R20 (0.4%)",R40,5.9,FALSE,0
+Northbridge,6003,Primary,Maylands Peninsula Primary School,TRUE,1831.934139,1832,Maylands Peninsula Primary School (approx ~1832 m),,,,FALSE,0
+Northbridge,6003,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,,,,FALSE,0
+Northbridge,6003,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,,,,FALSE,0
+Nowergup,6032,Secondary,Duncraig Senior High School,TRUE,13938.98043,13939,Duncraig Senior High School (approx ~13939 m),,,,TRUE,95.48624882
+O'Connor,6163,Primary,Manning Primary School,TRUE,5818.296088,5818,Manning Primary School (approx ~5818 m),"R80 (1.2%), R30 (0.5%), R40 (0.3%), R60 (0.3%)",R80,1.2,FALSE,0
+O'Connor,6163,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R80 (1.2%), R30 (0.5%), R40 (0.3%), R60 (0.3%)",R80,1.2,FALSE,0
+Oakford,6121,Primary,Manning Primary School,TRUE,16778.81026,16779,Manning Primary School (approx ~16779 m),,,,TRUE,99.43028494
+Oakford,6121,Secondary,Leeming Senior High School,TRUE,10994.20103,10994,Leeming Senior High School (approx ~10994 m),,,,TRUE,99.43028494
+Ocean Reef,6027,Primary,Balcatta PS,TRUE,13375.52545,13376,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13376 m)",R20 (9.4%),R20,9.4,TRUE,31.33014827
+Ocean Reef,6027,Primary,Osborne PS,TRUE,13375.52545,13376,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13376 m)",R20 (9.4%),R20,9.4,TRUE,31.33014827
+Ocean Reef,6027,Primary,West Balcatta PS,TRUE,13375.52545,13376,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~13376 m)",R20 (9.4%),R20,9.4,TRUE,31.33014827
+Ocean Reef,6027,Secondary,Duncraig Senior High School,TRUE,2470.126956,2470,Duncraig Senior High School (approx ~2470 m),R20 (9.4%),R20,9.4,TRUE,31.33014827
+Oldbury,6121,Secondary,Leeming Senior High School,TRUE,16815.80153,16816,Leeming Senior High School (approx ~16816 m),,,,TRUE,99.67394605
+Orange Grove,6109,Primary,Lathlain Primary School,TRUE,7615.633632,7616,Lathlain Primary School (approx ~7616 m),,,,TRUE,98.69013551
+Orange Grove,6109,Secondary,Como Secondary College,TRUE,7885.17404,7885,Como Secondary College (approx ~7885 m),,,,TRUE,98.69013551
+Orelia,6167,Secondary,Leeming Senior High School,TRUE,15788.17931,15788,Leeming Senior High School (approx ~15788 m),"R20 (5.0%), R12.5/20 (3.7%), R25 (2.3%), R40 (0.9%)",R20,5,TRUE,57.24952725
+Osborne Park,6017,Primary,Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Primary,Osborne PS,FALSE,,,"Tuart Hill PS, Osborne PS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Primary,Osborne PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Primary,Osborne Primary School,FALSE,,,Osborne Primary School,"R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Osborne PS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Primary,West Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Balcatta SHS,FALSE,,,"Churchlands SHS, Balcatta SHS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Balcatta SHS","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,"R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Osborne Park,6017,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R50 (1.2%), R-AC0 (0.6%), R-AC2 (0.2%), R100 (0.0%)",R50,1.2,FALSE,0
+Padbury,6025,Primary,Balcatta PS,TRUE,7448.885789,7449,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~7449 m)","R20 (18.6%), R20/40 (5.9%), R40 (0.1%)",R20,18.6,TRUE,37.25131669
+Padbury,6025,Primary,Osborne PS,TRUE,7448.885789,7449,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~7449 m)","R20 (18.6%), R20/40 (5.9%), R40 (0.1%)",R20,18.6,TRUE,37.25131669
+Padbury,6025,Primary,West Balcatta PS,TRUE,7448.885789,7449,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~7449 m)","R20 (18.6%), R20/40 (5.9%), R40 (0.1%)",R20,18.6,TRUE,37.25131669
+Padbury,6025,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,"R20 (18.6%), R20/40 (5.9%), R40 (0.1%)",R20,18.6,TRUE,37.25131669
+Palmyra,6157,Primary,Manning Primary School,TRUE,5979.076079,5979,Manning Primary School (approx ~5979 m),"R20 (31.3%), R40 (2.4%), R50 (1.8%), R60 (0.7%)",R20,31.3,FALSE,0
+Palmyra,6157,Secondary,Frenantle College,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R20 (31.3%), R40 (2.4%), R50 (1.8%), R60 (0.7%)",R20,31.3,FALSE,0
+Palmyra,6157,Secondary,John Curtin College of the Arts,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R20 (31.3%), R40 (2.4%), R50 (1.8%), R60 (0.7%)",R20,31.3,FALSE,0
+Palmyra,6157,Secondary,Melville SHS,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College","R20 (31.3%), R40 (2.4%), R50 (1.8%), R60 (0.7%)",R20,31.3,FALSE,0
+Palmyra,6157,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (31.3%), R40 (2.4%), R50 (1.8%), R60 (0.7%)",R20,31.3,FALSE,0
+Parkerville,6081,Primary,Bayswater Primary School,TRUE,17355.2742,17355,Bayswater Primary School (approx ~17355 m),,,,TRUE,99.14439548
+Parkerville,6081,Secondary,John Forrest Secondary College,TRUE,15539.54533,15540,John Forrest Secondary College (approx ~15540 m),,,,TRUE,99.14439548
+Parkwood,6147,Primary,Curtin PS,TRUE,2548.022121,2548,"Curtin PS, Manning PS (approx ~2548 m)","R40 (4.5%), R20 (3.7%), R30 (0.5%)",R40,4.5,TRUE,9.863279765
+Parkwood,6147,Primary,Manning PS,TRUE,2548.022121,2548,"Curtin PS, Manning PS (approx ~2548 m)","R40 (4.5%), R20 (3.7%), R30 (0.5%)",R40,4.5,TRUE,9.863279765
+Parkwood,6147,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R40 (4.5%), R20 (3.7%), R30 (0.5%)",R40,4.5,TRUE,9.863279765
+Parkwood,6147,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,"R40 (4.5%), R20 (3.7%), R30 (0.5%)",R40,4.5,TRUE,9.863279765
+Parmelia,6167,Secondary,Leeming Senior High School,TRUE,16206.76696,16207,Leeming Senior High School (approx ~16207 m),,,,TRUE,56.80563931
+Paulls Valley,6076,Primary,Bayswater Primary School,TRUE,14041.58965,14042,Bayswater Primary School (approx ~14042 m),,,,TRUE,99.87254543
+Paulls Valley,6076,Secondary,John Forrest Secondary College,TRUE,13290.87809,13291,John Forrest Secondary College (approx ~13291 m),,,,TRUE,99.87254543
+Pearsall,6065,Primary,Dianella Heights Primary School,TRUE,9684.990356,9685,Dianella Heights Primary School (approx ~9685 m),"R20 (26.0%), R30 (13.0%), R40 (10.2%), R25 (1.5%)",R20,26,TRUE,20.8827572
+Pearsall,6065,Secondary,Duncraig Senior High School,TRUE,5301.204929,5301,Duncraig Senior High School (approx ~5301 m),"R20 (26.0%), R30 (13.0%), R40 (10.2%), R25 (1.5%)",R20,26,TRUE,20.8827572
+Peppermint Grove,6011,Primary,South Perth Primary School,TRUE,7159.535419,7160,South Perth Primary School (approx ~7160 m),"R10 (2.5%), R12.5 (2.3%), R15 (0.0%), R30 (0.0%)",R10,2.5,TRUE,4.973909821
+Peppermint Grove,6011,Secondary,Shenton College,FALSE,,,Shenton College,"R10 (2.5%), R12.5 (2.3%), R15 (0.0%), R30 (0.0%)",R10,2.5,TRUE,4.973909821
+Perth,6000,Primary,South Perth Primary School,TRUE,194.0892872,194,South Perth Primary School (approx ~194 m),"R50 (0.3%), R100 (0.1%), R160 (0.0%)",R50,0.3,TRUE,2.354297462
+Perth,6000,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R50 (0.3%), R100 (0.1%), R160 (0.0%)",R50,0.3,TRUE,2.354297462
+Perth,6000,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R50 (0.3%), R100 (0.1%), R160 (0.0%)",R50,0.3,TRUE,2.354297462
+Perth,6000,Secondary,Shenton College,FALSE,,,Shenton College,"R50 (0.3%), R100 (0.1%), R160 (0.0%)",R50,0.3,TRUE,2.354297462
+Perth Airport,6105,Primary,Bayswater Primary School,TRUE,1185.391622,1185,Bayswater Primary School (approx ~1185 m),R20 (0.0%),R20,0,TRUE,46.2052835
+Perth Airport,6105,Secondary,John Forrest Secondary College,TRUE,978.4090729,978,John Forrest Secondary College (approx ~978 m),R20 (0.0%),R20,0,TRUE,46.2052835
+Piara Waters,6112,Primary,Manning Primary School,TRUE,10272.58464,10273,Manning Primary School (approx ~10273 m),"R25 (18.1%), R40 (3.2%), R30 (0.1%), R60 (0.0%)",R25,18.1,TRUE,35.37300889
+Piara Waters,6112,Secondary,Leeming Senior High School,TRUE,5273.435043,5273,Leeming Senior High School (approx ~5273 m),"R25 (18.1%), R40 (3.2%), R30 (0.1%), R60 (0.0%)",R25,18.1,TRUE,35.37300889
+Pickering Brook,6076,Primary,Lathlain Primary School,TRUE,16243.3209,16243,Lathlain Primary School (approx ~16243 m),R2.5 (0.3%),R2.5,0.3,TRUE,99.94599598
+Pickering Brook,6076,Secondary,Como Secondary College,TRUE,16974.88638,16975,Como Secondary College (approx ~16975 m),R2.5 (0.3%),R2.5,0.3,TRUE,99.94599598
+Piesse Brook,6076,Primary,Bayswater Primary School,TRUE,11544.30013,11544,Bayswater Primary School (approx ~11544 m),,,,TRUE,99.66741785
+Piesse Brook,6076,Secondary,John Forrest Secondary College,TRUE,10734.80042,10735,John Forrest Secondary College (approx ~10735 m),,,,TRUE,99.66741785
+Pinjar,6078,Primary,Dianella Heights Primary School,TRUE,19085.68443,19086,Dianella Heights Primary School (approx ~19086 m),,,,TRUE,99.79266071
+Pinjar,6078,Secondary,Duncraig Senior High School,TRUE,12592.13047,12592,Duncraig Senior High School (approx ~12592 m),,,,TRUE,99.79266071
+Postans,6167,Secondary,Leeming Senior High School,TRUE,13980.70971,13981,Leeming Senior High School (approx ~13981 m),,,,TRUE,88.50321097
+Queens Park,6107,Primary,Lathlain Primary School,TRUE,879.1641661,879,Lathlain Primary School (approx ~879 m),"R30 (18.1%), R40 (0.6%), R60 (0.4%)",R30,18.1,TRUE,10.77896684
+Queens Park,6107,Secondary,Como Secondary College,TRUE,1652.107561,1652,Como Secondary College (approx ~1652 m),"R30 (18.1%), R40 (0.6%), R60 (0.4%)",R30,18.1,TRUE,10.77896684
+Quinns Rocks,6030,Secondary,Duncraig Senior High School,TRUE,13880.50948,13881,Duncraig Senior High School (approx ~13881 m),"R20 (77.9%), R25 (4.0%), R40 (2.0%), R30 (0.3%)",R20,77.9,TRUE,24.10204354
+Red Hill,6056,Primary,Bayswater Primary School,TRUE,13062.66425,13063,Bayswater Primary School (approx ~13063 m),,,,TRUE,96.00233125
+Red Hill,6056,Secondary,John Forrest Secondary College,TRUE,10978.57833,10979,John Forrest Secondary College (approx ~10979 m),,,,TRUE,96.00233125
+Redcliffe,6104,Primary,Bayswater Primary School,TRUE,486.197464,486,Bayswater Primary School (approx ~486 m),"R20 (8.4%), R20/40 (2.1%), R12.5 (0.3%)",R20,8.4,TRUE,13.87439753
+Redcliffe,6104,Secondary,John Forrest Secondary College,TRUE,496.4398694,496,John Forrest Secondary College (approx ~496 m),"R20 (8.4%), R20/40 (2.1%), R12.5 (0.3%)",R20,8.4,TRUE,13.87439753
+Reservoir,6076,Primary,Lathlain Primary School,TRUE,18349.95903,18350,Lathlain Primary School (approx ~18350 m),,,,TRUE,99.92787226
+Reservoir,6076,Secondary,John Forrest Secondary College,TRUE,18859.45485,18859,John Forrest Secondary College (approx ~18859 m),,,,TRUE,99.92787226
+Ridgewood,6030,Secondary,Duncraig Senior High School,TRUE,14058.81421,14059,Duncraig Senior High School (approx ~14059 m),"R20 (35.8%), R40 (6.9%), R60 (4.3%), R30 (2.7%)",R20,35.8,TRUE,8.549590921
+Riverton,6148,Primary,Manning Primary School,TRUE,931.4118215,931,Manning Primary School (approx ~931 m),"R25 (23.6%), R40 (9.3%), R30 (4.7%), R20 (0.5%)",R25,23.6,TRUE,20.79254285
+Riverton,6148,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R25 (23.6%), R40 (9.3%), R30 (4.7%), R20 (0.5%)",R25,23.6,TRUE,20.79254285
+Riverton,6148,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,"R25 (23.6%), R40 (9.3%), R30 (4.7%), R20 (0.5%)",R25,23.6,TRUE,20.79254285
+Rivervale,6103,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,"R20 (17.1%), R20/40 (14.4%), R100 (2.2%), R20/60 (2.0%), R20/50/100 (0.9%), R30 (0.5%)",R20,17.1,TRUE,6.724358679
+Rivervale,6103,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R20 (17.1%), R20/40 (14.4%), R100 (2.2%), R20/60 (2.0%), R20/50/100 (0.9%), R30 (0.5%)",R20,17.1,TRUE,6.724358679
+Rivervale,6103,Primary,Rivervale Primary School,FALSE,,,Rivervale Primary School,"R20 (17.1%), R20/40 (14.4%), R100 (2.2%), R20/60 (2.0%), R20/50/100 (0.9%), R30 (0.5%)",R20,17.1,TRUE,6.724358679
+Rivervale,6103,Secondary,John Forrest Secondary College,TRUE,96.93475089,97,John Forrest Secondary College (approx ~97 m),"R20 (17.1%), R20/40 (14.4%), R100 (2.2%), R20/60 (2.0%), R20/50/100 (0.9%), R30 (0.5%)",R20,17.1,TRUE,6.724358679
+Roleystone,6111,Primary,Lathlain Primary School,TRUE,15902.37799,15902,Lathlain Primary School (approx ~15902 m),R5 (15.9%),R5,15.9,TRUE,99.11959933
+Roleystone,6111,Secondary,Willeton Senior High School,TRUE,13474.75307,13475,Willeton Senior High School (approx ~13475 m),R5 (15.9%),R5,15.9,TRUE,99.11959933
+Rossmoyne,6148,Primary,Manning Primary School,TRUE,144.0912504,144,Manning Primary School (approx ~144 m),"R20 (17.1%), R30 (2.5%), R40 (2.4%)",R20,17.1,TRUE,8.298170291
+Rossmoyne,6148,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (17.1%), R30 (2.5%), R40 (2.4%)",R20,17.1,TRUE,8.298170291
+Rossmoyne,6148,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (17.1%), R30 (2.5%), R40 (2.4%)",R20,17.1,TRUE,8.298170291
+Rossmoyne,6148,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R20 (17.1%), R30 (2.5%), R40 (2.4%)",R20,17.1,TRUE,8.298170291
+Rottnest Island,6161,Secondary,Fremantle College,TRUE,16378.82564,16379,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~16379 m)",,,,TRUE,84.41958452
+Rottnest Island,6161,Secondary,John Curtin College,TRUE,16378.82564,16379,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~16379 m)",,,,TRUE,84.41958452
+Rottnest Island,6161,Secondary,Melville SHS,TRUE,16378.82564,16379,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~16379 m)",,,,TRUE,84.41958452
+Rottnest Island,6161,Secondary,Shenton College,TRUE,16378.82564,16379,"John Curtin College, Shenton College, Melville SHS, Fremantle College (approx ~16379 m)",,,,TRUE,84.41958452
+Salter Point,6152,Primary,Curtin PS,FALSE,,,"Curtin PS, Manning PS","R20 (11.8%), R40 (1.5%), R15 (0.6%)",R20,11.8,TRUE,25.1136483
+Salter Point,6152,Primary,Manning PS,FALSE,,,"Curtin PS, Manning PS","R20 (11.8%), R40 (1.5%), R15 (0.6%)",R20,11.8,TRUE,25.1136483
+Salter Point,6152,Primary,Manning Primary School,FALSE,,,Manning Primary School,"R20 (11.8%), R40 (1.5%), R15 (0.6%)",R20,11.8,TRUE,25.1136483
+Salter Point,6152,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R20 (11.8%), R40 (1.5%), R15 (0.6%)",R20,11.8,TRUE,25.1136483
+Samson,6163,Primary,Manning Primary School,TRUE,6405.538057,6406,Manning Primary School (approx ~6406 m),"R60 (0.2%), R20 (0.0%)",R60,0.2,TRUE,31.6018046
+Samson,6163,Secondary,Melville Senior High School,TRUE,3.660274075,4,Melville Senior High School (approx ~4 m),"R60 (0.2%), R20 (0.0%)",R60,0.2,TRUE,31.6018046
+Scarborough,6019,Primary,Balcatta PS,TRUE,2320.416962,2320,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2320 m)",,,,TRUE,10.72525428
+Scarborough,6019,Primary,Osborne PS,TRUE,2320.416962,2320,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2320 m)",,,,TRUE,10.72525428
+Scarborough,6019,Primary,West Balcatta PS,TRUE,2320.416962,2320,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2320 m)",,,,TRUE,10.72525428
+Scarborough,6019,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",,,,TRUE,10.72525428
+Scarborough,6019,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",,,,TRUE,10.72525428
+Scarborough,6019,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,,,TRUE,10.72525428
+Seville Grove,6112,Primary,Curtin PS,TRUE,14726.87475,14727,"Curtin PS, Manning PS (approx ~14727 m)","R40 (1.2%), R30 (0.4%), R25 (0.4%), R20 (0.2%)",R40,1.2,TRUE,28.4158558
+Seville Grove,6112,Primary,Manning PS,TRUE,14726.87475,14727,"Curtin PS, Manning PS (approx ~14727 m)","R40 (1.2%), R30 (0.4%), R25 (0.4%), R20 (0.2%)",R40,1.2,TRUE,28.4158558
+Seville Grove,6112,Secondary,Willeton Senior High School,TRUE,10687.18412,10687,Willeton Senior High School (approx ~10687 m),"R40 (1.2%), R30 (0.4%), R25 (0.4%), R20 (0.2%)",R40,1.2,TRUE,28.4158558
+Shelley,6148,Primary,Manning Primary School,TRUE,157.1628763,157,Manning Primary School (approx ~157 m),"R20 (27.9%), R25 (13.7%), R30 (7.3%), R40 (0.8%)",R20,27.9,TRUE,0.299666102
+Shelley,6148,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R20 (27.9%), R25 (13.7%), R30 (7.3%), R40 (0.8%)",R20,27.9,TRUE,0.299666102
+Shenton Park,6008,Primary,South Perth Primary School,TRUE,1966.321446,1966,South Perth Primary School (approx ~1966 m),"R20 (17.0%), R15 (1.7%), R80 (1.6%), R50 (1.0%), R60 (0.9%), R100 (0.3%)",R20,17,TRUE,35.98906519
+Shenton Park,6008,Secondary,Bob Hawke College,FALSE,,,"Shenton College, Bob Hawke College","R20 (17.0%), R15 (1.7%), R80 (1.6%), R50 (1.0%), R60 (0.9%), R100 (0.3%)",R20,17,TRUE,35.98906519
+Shenton Park,6008,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R20 (17.0%), R15 (1.7%), R80 (1.6%), R50 (1.0%), R60 (0.9%), R100 (0.3%)",R20,17,TRUE,35.98906519
+Shenton Park,6008,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (17.0%), R15 (1.7%), R80 (1.6%), R50 (1.0%), R60 (0.9%), R100 (0.3%)",R20,17,TRUE,35.98906519
+Shenton Park,6008,Secondary,Shenton College,FALSE,,,"Shenton College, Bob Hawke College","R20 (17.0%), R15 (1.7%), R80 (1.6%), R50 (1.0%), R60 (0.9%), R100 (0.3%)",R20,17,TRUE,35.98906519
+Sinagra,6065,Primary,Dianella Heights Primary School,TRUE,13972.23498,13972,Dianella Heights Primary School (approx ~13972 m),"R20/40 (1.4%), R40 (0.0%)",R20/40,1.4,TRUE,35.4091062
+Sinagra,6065,Secondary,Duncraig Senior High School,TRUE,6989.879482,6990,Duncraig Senior High School (approx ~6990 m),"R20/40 (1.4%), R40 (0.0%)",R20/40,1.4,TRUE,35.4091062
+Sorrento,6020,Primary,Balcatta PS,TRUE,6161.676568,6162,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~6162 m)","R20 (35.3%), R20/25 (4.5%), R50 (0.9%), R40 (0.8%)",R20,35.3,TRUE,3.125361867
+Sorrento,6020,Primary,Osborne PS,TRUE,6161.676568,6162,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~6162 m)","R20 (35.3%), R20/25 (4.5%), R50 (0.9%), R40 (0.8%)",R20,35.3,TRUE,3.125361867
+Sorrento,6020,Primary,West Balcatta PS,TRUE,6161.676568,6162,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~6162 m)","R20 (35.3%), R20/25 (4.5%), R50 (0.9%), R40 (0.8%)",R20,35.3,TRUE,3.125361867
+Sorrento,6020,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,"R20 (35.3%), R20/25 (4.5%), R50 (0.9%), R40 (0.8%)",R20,35.3,TRUE,3.125361867
+Sorrento,6020,Secondary,Duncraig Senior High School,FALSE,,,Duncraig Senior High School,"R20 (35.3%), R20/25 (4.5%), R50 (0.9%), R40 (0.8%)",R20,35.3,TRUE,3.125361867
+South Fremantle,6162,Primary,Manning Primary School,TRUE,10085.03738,10085,Manning Primary School (approx ~10085 m),,,,TRUE,22.08716047
+South Fremantle,6162,Secondary,Frenantle College,TRUE,731.0295114,731,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~731 m)",,,,TRUE,22.08716047
+South Fremantle,6162,Secondary,John Curtin College of the Arts,TRUE,731.0295114,731,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~731 m)",,,,TRUE,22.08716047
+South Fremantle,6162,Secondary,Melville SHS,TRUE,731.0295114,731,"John Curtin College of the Arts, Melville SHS, Frenantle College (approx ~731 m)",,,,TRUE,22.08716047
+South Guildford,6055,Primary,Bayswater Primary School,TRUE,1874.349379,1874,Bayswater Primary School (approx ~1874 m),"R20 (9.9%), R12.5 (0.9%), R17.5 (0.4%), R30 (0.4%), R2.5 (0.3%)",R20,9.9,TRUE,50.62962838
+South Guildford,6055,Secondary,John Forrest Secondary College,TRUE,627.4962274,627,John Forrest Secondary College (approx ~627 m),"R20 (9.9%), R12.5 (0.9%), R17.5 (0.4%), R30 (0.4%), R2.5 (0.3%)",R20,9.9,TRUE,50.62962838
+South Lake,6164,Primary,Manning Primary School,TRUE,7000.778937,7001,Manning Primary School (approx ~7001 m),"R20 (77.1%), R30 (0.9%), R40 (0.4%), R25 (0.3%)",R20,77.1,TRUE,21.24103461
+South Lake,6164,Secondary,Leeming Senior High School,TRUE,890.5514538,891,Leeming Senior High School (approx ~891 m),"R20 (77.1%), R30 (0.9%), R40 (0.4%), R25 (0.3%)",R20,77.1,TRUE,21.24103461
+South Perth,6151,Primary,Collier PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,Collier Primary School,FALSE,,,Collier Primary School,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,Como Primary School,FALSE,,,Como Primary School,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,Kensington PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,Kensington Primary School,FALSE,,,Kensington Primary School,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,South Perth PS,FALSE,,,"Kensington PS, South Perth PS, Collier PS","R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,South Perth Primary School,FALSE,,,South Perth Primary School,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Primary,Victoria Park Primary School,FALSE,,,Victoria Park Primary School,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Secondary,Como Secondary College,FALSE,,,"Como Secondary College, Kent St SHS","R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+South Perth,6151,Secondary,Kent St SHS,FALSE,,,"Como Secondary College, Kent St SHS","R15 (9.4%), R40 (6.2%), R-AC0 (3.9%), R60 (3.2%), R25 (2.7%), R50 (1.4%), R20 (1.4%), R80 (1.2%), R-AC3 (0.7%), R30 (0.2%), R100 (0.2%), R-AC2 (0.0%)",R15,9.4,FALSE,0
+Southern River,6110,Primary,Curtin PS,TRUE,9133.424333,9133,"Curtin PS, Manning PS (approx ~9133 m)","R20 (10.9%), R30 (1.4%), R60 (0.6%), R40 (0.6%), R80 (0.4%), R25 (0.2%)",R20,10.9,TRUE,74.0805692
+Southern River,6110,Primary,Manning PS,TRUE,9133.424333,9133,"Curtin PS, Manning PS (approx ~9133 m)","R20 (10.9%), R30 (1.4%), R60 (0.6%), R40 (0.6%), R80 (0.4%), R25 (0.2%)",R20,10.9,TRUE,74.0805692
+Southern River,6110,Secondary,Willeton Senior High School,TRUE,5101.965746,5102,Willeton Senior High School (approx ~5102 m),"R20 (10.9%), R30 (1.4%), R60 (0.6%), R40 (0.6%), R80 (0.4%), R25 (0.2%)",R20,10.9,TRUE,74.0805692
+Spearwood,6163,Primary,Manning Primary School,TRUE,8899.807049,8900,Manning Primary School (approx ~8900 m),"R40 (1.7%), R60 (1.2%), R20 (0.4%), R25 (0.2%), R80 (0.2%), R30 (0.2%), R30/40 (0.1%)",R40,1.7,TRUE,36.59655909
+Spearwood,6163,Secondary,Melville Senior High School,TRUE,2522.498157,2522,Melville Senior High School (approx ~2522 m),"R40 (1.7%), R60 (1.2%), R20 (0.4%), R25 (0.2%), R80 (0.2%), R30 (0.2%), R30/40 (0.1%)",R40,1.7,TRUE,36.59655909
+St James,6102,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,R20 (1.0%),R20,1,FALSE,0
+St James,6102,Primary,Millen Primary School,FALSE,,,Millen Primary School,R20 (1.0%),R20,1,FALSE,0
+St James,6102,Secondary,Como Secondary College,FALSE,,,Como Secondary College,R20 (1.0%),R20,1,FALSE,0
+Stirling,6021,Primary,Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Primary,Osborne PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Primary,Osborne Primary School,FALSE,,,Osborne Primary School,R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Primary,West Balcatta PS,FALSE,,,"Balcatta PS, West Balcatta PS, Osborne PS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Secondary,Balcatta SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Secondary,Balcatta SHS,FALSE,,,"Carine SHS, Balcatta SHS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Secondary,Carine SHS,FALSE,,,"Carine SHS, Balcatta SHS",R40 (0.0%),R40,0,FALSE,0
+Stirling,6021,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",R40 (0.0%),R40,0,FALSE,0
+Stoneville,6081,Secondary,John Forrest Secondary College,TRUE,18708.48561,18708,John Forrest Secondary College (approx ~18708 m),,,,TRUE,97.09615083
+Stratton,6056,Primary,Bayswater Primary School,TRUE,10516.12778,10516,Bayswater Primary School (approx ~10516 m),"R20 (5.2%), R40 (1.4%)",R20,5.2,TRUE,64.12148904
+Stratton,6056,Secondary,John Forrest Secondary College,TRUE,8507.569815,8508,John Forrest Secondary College (approx ~8508 m),"R20 (5.2%), R40 (1.4%)",R20,5.2,TRUE,64.12148904
+Subiaco,6008,Primary,South Perth Primary School,TRUE,1900.029697,1900,South Perth Primary School (approx ~1900 m),"R20 (16.8%), R-AC0 (2.7%), R80 (1.1%), R50 (0.8%), R30 (0.5%), R100 (0.4%), R60 (0.4%)",R20,16.8,TRUE,2.757255445
+Subiaco,6008,Secondary,Bob Hawke College,FALSE,,,"Shenton College, Bob Hawke College","R20 (16.8%), R-AC0 (2.7%), R80 (1.1%), R50 (0.8%), R30 (0.5%), R100 (0.4%), R60 (0.4%)",R20,16.8,TRUE,2.757255445
+Subiaco,6008,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R20 (16.8%), R-AC0 (2.7%), R80 (1.1%), R50 (0.8%), R30 (0.5%), R100 (0.4%), R60 (0.4%)",R20,16.8,TRUE,2.757255445
+Subiaco,6008,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (16.8%), R-AC0 (2.7%), R80 (1.1%), R50 (0.8%), R30 (0.5%), R100 (0.4%), R60 (0.4%)",R20,16.8,TRUE,2.757255445
+Subiaco,6008,Secondary,Shenton College,FALSE,,,"Shenton College, Bob Hawke College","R20 (16.8%), R-AC0 (2.7%), R80 (1.1%), R50 (0.8%), R30 (0.5%), R100 (0.4%), R60 (0.4%)",R20,16.8,TRUE,2.757255445
+Success,6164,Primary,Manning Primary School,TRUE,10492.80047,10493,Manning Primary School (approx ~10493 m),"R20 (12.5%), R30 (5.9%), R40 (2.2%), R80 (1.0%), R25 (0.3%), R60 (0.1%)",R20,12.5,TRUE,60.82420068
+Success,6164,Secondary,Leeming Senior High School,TRUE,4382.579439,4383,Leeming Senior High School (approx ~4383 m),"R20 (12.5%), R30 (5.9%), R40 (2.2%), R80 (1.0%), R25 (0.3%), R60 (0.1%)",R20,12.5,TRUE,60.82420068
+Swan View,6056,Primary,Bayswater Primary School,TRUE,9979.66307,9980,Bayswater Primary School (approx ~9980 m),"R12.5 (11.2%), R5 (8.9%), R20/35 (5.0%), R2.5 (2.7%), R20/40 (2.0%), R40 (1.9%), R30 (0.6%), R20 (0.4%), R20/50 (0.2%)",R12.5,11.2,TRUE,60.19429304
+Swan View,6056,Secondary,John Forrest Secondary College,TRUE,8285.786139,8286,John Forrest Secondary College (approx ~8286 m),"R12.5 (11.2%), R5 (8.9%), R20/35 (5.0%), R2.5 (2.7%), R20/40 (2.0%), R40 (1.9%), R30 (0.6%), R20 (0.4%), R20/50 (0.2%)",R12.5,11.2,TRUE,60.19429304
+Swanbourne,6010,Primary,South Perth Primary School,TRUE,6209.743377,6210,South Perth Primary School (approx ~6210 m),"R20 (14.0%), R15/20 (1.3%), R35 (1.0%), R15 (0.9%), R12.5 (0.8%), R25 (0.7%), R10 (0.6%), R80 (0.1%), R30 (0.1%), R40 (0.1%), R60 (0.0%)",R20,14,TRUE,50.78082017
+Swanbourne,6010,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (14.0%), R15/20 (1.3%), R35 (1.0%), R15 (0.9%), R12.5 (0.8%), R25 (0.7%), R10 (0.6%), R80 (0.1%), R30 (0.1%), R40 (0.1%), R60 (0.0%)",R20,14,TRUE,50.78082017
+Tamala Park,6030,Primary,Balcatta PS,TRUE,19694.93726,19695,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~19695 m)",,,,TRUE,96.72569204
+Tamala Park,6030,Primary,Osborne PS,TRUE,19694.93726,19695,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~19695 m)",,,,TRUE,96.72569204
+Tamala Park,6030,Primary,West Balcatta PS,TRUE,19694.93726,19695,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~19695 m)",,,,TRUE,96.72569204
+Tamala Park,6030,Secondary,Duncraig Senior High School,TRUE,9307.675056,9308,Duncraig Senior High School (approx ~9308 m),,,,TRUE,96.72569204
+Tapping,6065,Primary,Dianella Heights Primary School,TRUE,16500.4971,16500,Dianella Heights Primary School (approx ~16500 m),"R20 (45.7%), R40 (5.1%), R30 (3.4%), R60 (1.1%)",R20,45.7,TRUE,26.37015179
+Tapping,6065,Secondary,Duncraig Senior High School,TRUE,8239.541706,8240,Duncraig Senior High School (approx ~8240 m),"R20 (45.7%), R40 (5.1%), R30 (3.4%), R60 (1.1%)",R20,45.7,TRUE,26.37015179
+The Spectacles,6167,Primary,Manning Primary School,TRUE,19691.01572,19691,Manning Primary School (approx ~19691 m),,,,TRUE,100
+The Spectacles,6167,Secondary,Leeming Senior High School,TRUE,13590.26848,13590,Leeming Senior High School (approx ~13590 m),,,,TRUE,100
+The Vines,6069,Primary,Morley Primary School,TRUE,14880.76925,14881,Morley Primary School (approx ~14881 m),,,,TRUE,82.03416214
+The Vines,6069,Secondary,John Forrest Secondary College,TRUE,15994.95179,15995,John Forrest Secondary College (approx ~15995 m),,,,TRUE,82.03416214
+Thornlie,6108,Primary,Curtin PS,TRUE,5385.531628,5386,"Curtin PS, Manning PS (approx ~5386 m)","R20 (42.1%), R40 (5.0%), R30 (2.4%), R60 (2.1%), R100 (2.1%), R80 (0.6%)",R20,42.1,TRUE,17.75772839
+Thornlie,6108,Primary,Manning PS,TRUE,5385.531628,5386,"Curtin PS, Manning PS (approx ~5386 m)","R20 (42.1%), R40 (5.0%), R30 (2.4%), R60 (2.1%), R100 (2.1%), R80 (0.6%)",R20,42.1,TRUE,17.75772839
+Thornlie,6108,Secondary,Willeton Senior High School,TRUE,2401.642783,2402,Willeton Senior High School (approx ~2402 m),"R20 (42.1%), R40 (5.0%), R30 (2.4%), R60 (2.1%), R100 (2.1%), R80 (0.6%)",R20,42.1,TRUE,17.75772839
+Treeby,6164,Primary,Manning Primary School,TRUE,8429.241059,8429,Manning Primary School (approx ~8429 m),"R40 (2.3%), R25 (1.5%), R30 (1.1%), R80 (0.2%), R60 (0.2%)",R40,2.3,TRUE,83.59635624
+Treeby,6164,Secondary,Leeming Senior High School,TRUE,3057.091979,3057,Leeming Senior High School (approx ~3057 m),"R40 (2.3%), R25 (1.5%), R30 (1.1%), R80 (0.2%), R60 (0.2%)",R40,2.3,TRUE,83.59635624
+Trigg,6029,Primary,Balcatta PS,TRUE,3352.515173,3353,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3353 m)",R20 (12.0%),R20,12,TRUE,62.68117237
+Trigg,6029,Primary,Osborne PS,TRUE,3352.515173,3353,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3353 m)",R20 (12.0%),R20,12,TRUE,62.68117237
+Trigg,6029,Primary,West Balcatta PS,TRUE,3352.515173,3353,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~3353 m)",R20 (12.0%),R20,12,TRUE,62.68117237
+Trigg,6029,Secondary,Carine SHS,FALSE,,,"Churchlands SHS, Carine SHS",R20 (12.0%),R20,12,TRUE,62.68117237
+Trigg,6029,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,R20 (12.0%),R20,12,TRUE,62.68117237
+Trigg,6029,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Carine SHS",R20 (12.0%),R20,12,TRUE,62.68117237
+Tuart Hill,6060,Primary,Nollamara PS,FALSE,,,"Tuart Hill PS, Nollamara PS","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Nollamara Primary School,FALSE,,,Nollamara Primary School,"R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Osborne PS,FALSE,,,"Tuart Hill PS, Osborne PS","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Osborne Primary School,FALSE,,,Osborne Primary School,"R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Osborne PS","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Nollamara PS","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Primary,Tuart Hill Primary School,FALSE,,,Tuart Hill Primary School,"R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Tuart Hill,6060,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College","R40 (17.8%), R-AC0 (1.2%)",R40,17.8,FALSE,0
+Upper Swan,6069,Primary,Morley Primary School,TRUE,14178.60757,14179,Morley Primary School (approx ~14179 m),,,,TRUE,53.51895684
+Upper Swan,6069,Secondary,John Forrest Secondary College,TRUE,14363.55063,14364,John Forrest Secondary College (approx ~14364 m),,,,TRUE,53.51895684
+Victoria Park,6100,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Victoria Park,6100,Primary,Kensington Primary School,FALSE,,,Kensington Primary School,"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Victoria Park,6100,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Victoria Park,6100,Primary,Millen Primary School,FALSE,,,Millen Primary School,"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Victoria Park,6100,Primary,Victoria Park Primary School,FALSE,,,Victoria Park Primary School,"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Victoria Park,6100,Secondary,Bob Hawke College,TRUE,406.3116308,406,Bob Hawke College (approx ~406 m),"R30 (24.1%), R60 (14.5%), R40 (7.9%), R80 (2.5%), R-AC0 (0.5%)",R30,24.1,FALSE,0
+Viveash,6056,Primary,Bayswater Primary School,TRUE,7239.870528,7240,Bayswater Primary School (approx ~7240 m),"R15 (4.6%), R20 (4.3%), R20/35 (3.5%), R60 (2.3%), R40 (0.2%)",R15,4.6,TRUE,55.7747504
+Viveash,6056,Secondary,John Forrest Secondary College,TRUE,5078.000311,5078,John Forrest Secondary College (approx ~5078 m),"R15 (4.6%), R20 (4.3%), R20/35 (3.5%), R60 (2.3%), R40 (0.2%)",R15,4.6,TRUE,55.7747504
+Walliston,6076,Primary,Lathlain Primary School,TRUE,12192.15712,12192,Lathlain Primary School (approx ~12192 m),,,,TRUE,99.87872958
+Walliston,6076,Secondary,John Forrest Secondary College,TRUE,13611.7752,13612,John Forrest Secondary College (approx ~13612 m),,,,TRUE,99.87872958
+Wandi,6167,Primary,Manning Primary School,TRUE,16430.70217,16431,Manning Primary School (approx ~16431 m),"R5 (0.2%), R12.5 (0.1%)",R5,0.2,TRUE,96.12552046
+Wandi,6167,Secondary,Leeming Senior High School,TRUE,10350.04372,10350,Leeming Senior High School (approx ~10350 m),"R5 (0.2%), R12.5 (0.1%)",R5,0.2,TRUE,96.12552046
+Wangara,6065,Primary,Dianella Heights Primary School,TRUE,7627.665938,7628,Dianella Heights Primary School (approx ~7628 m),,,,TRUE,14.04684711
+Wangara,6065,Secondary,Carine Senior High School,TRUE,4706.552941,4707,Carine Senior High School (approx ~4707 m),,,,TRUE,14.04684711
+Wanneroo,6065,Primary,Dianella Heights Primary School,TRUE,8913.933315,8914,Dianella Heights Primary School (approx ~8914 m),"R20 (8.3%), R20/40 (4.2%), R2 (3.4%), R15 (0.8%), R20/60 (0.5%), R40 (0.3%), R30 (0.2%), R5 (0.1%), R60 (0.1%), R2.5 (0.0%)",R20,8.3,TRUE,67.5991618
+Wanneroo,6065,Secondary,Duncraig Senior High School,TRUE,4465.660766,4466,Duncraig Senior High School (approx ~4466 m),"R20 (8.3%), R20/40 (4.2%), R2 (3.4%), R15 (0.8%), R20/60 (0.5%), R40 (0.3%), R30 (0.2%), R5 (0.1%), R60 (0.1%), R2.5 (0.0%)",R20,8.3,TRUE,67.5991618
+Warwick,6024,Primary,Nollamara Primary School,TRUE,4029.448735,4029,Nollamara Primary School (approx ~4029 m),,,,TRUE,33.64529413
+Warwick,6024,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,,,,TRUE,33.64529413
+Waterford,6152,Primary,Curtin PS,FALSE,,,"Curtin PS, Manning PS","R20 (20.8%), R60 (2.5%), R100 (0.6%), R80 (0.2%)",R20,20.8,TRUE,28.28852973
+Waterford,6152,Primary,Curtin Primary School,FALSE,,,Curtin Primary School,"R20 (20.8%), R60 (2.5%), R100 (0.6%), R80 (0.2%)",R20,20.8,TRUE,28.28852973
+Waterford,6152,Primary,Manning PS,FALSE,,,"Curtin PS, Manning PS","R20 (20.8%), R60 (2.5%), R100 (0.6%), R80 (0.2%)",R20,20.8,TRUE,28.28852973
+Waterford,6152,Primary,Manning Primary School,FALSE,,,Manning Primary School,"R20 (20.8%), R60 (2.5%), R100 (0.6%), R80 (0.2%)",R20,20.8,TRUE,28.28852973
+Waterford,6152,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R20 (20.8%), R60 (2.5%), R100 (0.6%), R80 (0.2%)",R20,20.8,TRUE,28.28852973
+Watermans Bay,6020,Primary,Balcatta PS,TRUE,4014.176612,4014,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4014 m)",R20 (15.5%),R20,15.5,TRUE,59.8614934
+Watermans Bay,6020,Primary,Osborne PS,TRUE,4014.176612,4014,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4014 m)",R20 (15.5%),R20,15.5,TRUE,59.8614934
+Watermans Bay,6020,Primary,West Balcatta PS,TRUE,4014.176612,4014,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~4014 m)",R20 (15.5%),R20,15.5,TRUE,59.8614934
+Watermans Bay,6020,Secondary,Carine Senior High School,FALSE,,,Carine Senior High School,R20 (15.5%),R20,15.5,TRUE,59.8614934
+Wattle Grove,6107,Primary,Lathlain Primary School,TRUE,4247.225499,4247,Lathlain Primary School (approx ~4247 m),,,,TRUE,82.12680877
+Wattle Grove,6107,Secondary,Como Secondary College,TRUE,5482.934176,5483,Como Secondary College (approx ~5483 m),,,,TRUE,82.12680877
+Wattleup,6166,Primary,Manning Primary School,TRUE,14251.73506,14252,Manning Primary School (approx ~14252 m),,,,TRUE,69.63088848
+Wattleup,6166,Secondary,Melville Senior High School,TRUE,8150.212212,8150,Melville Senior High School (approx ~8150 m),,,,TRUE,69.63088848
+Wellard,6170,Secondary,Leeming Senior High School,TRUE,18398.55989,18399,Leeming Senior High School (approx ~18399 m),,,,TRUE,82.27945984
+Welshpool,6106,Primary,Carlisle Primary School,FALSE,,,Carlisle Primary School,,,,TRUE,8.431420972
+Welshpool,6106,Primary,East Victoria Park Primary School,FALSE,,,East Victoria Park Primary School,,,,TRUE,8.431420972
+Welshpool,6106,Primary,Lathlain Primary School,FALSE,,,Lathlain Primary School,,,,TRUE,8.431420972
+Welshpool,6106,Secondary,Como Secondary College,TRUE,1312.640233,1313,Como Secondary College (approx ~1313 m),,,,TRUE,8.431420972
+Wembley,6014,Primary,Osborne Primary School,TRUE,885.6994633,886,Osborne Primary School (approx ~886 m),"R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley,6014,Secondary,Bob Hawke College,FALSE,,,"Shenton College, Bob Hawke College","R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley,6014,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley,6014,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,"R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley,6014,Secondary,Shenton College,FALSE,,,Shenton College,"R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley,6014,Secondary,Shenton College,FALSE,,,"Shenton College, Bob Hawke College","R20 (0.6%), R40 (0.5%), R40/60 (0.2%)",R20,0.6,FALSE,0
+Wembley Downs,6019,Primary,Balcatta PS,TRUE,2367.167554,2367,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2367 m)",,,,TRUE,12.22950116
+Wembley Downs,6019,Primary,Osborne PS,TRUE,2367.167554,2367,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2367 m)",,,,TRUE,12.22950116
+Wembley Downs,6019,Primary,West Balcatta PS,TRUE,2367.167554,2367,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~2367 m)",,,,TRUE,12.22950116
+Wembley Downs,6019,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,,,TRUE,12.22950116
+Wembley Downs,6019,Secondary,Shenton College,FALSE,,,Shenton College,,,,TRUE,12.22950116
+West Leederville,6007,Primary,Tuart Hill Primary School,TRUE,1422.758324,1423,Tuart Hill Primary School (approx ~1423 m),R40 (0.3%),R40,0.3,FALSE,0
+West Leederville,6007,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,R40 (0.3%),R40,0.3,FALSE,0
+West Perth,6005,Primary,South Perth Primary School,TRUE,815.5326885,816,South Perth Primary School (approx ~816 m),"R160 (3.4%), R80 (2.1%), R50 (0.2%)",R160,3.4,TRUE,4.091327335
+West Perth,6005,Secondary,Bob Hawke College,FALSE,,,Bob Hawke College,"R160 (3.4%), R80 (2.1%), R50 (0.2%)",R160,3.4,TRUE,4.091327335
+West Perth,6005,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,"R160 (3.4%), R80 (2.1%), R50 (0.2%)",R160,3.4,TRUE,4.091327335
+West Swan,6055,Primary,Morley Primary School,TRUE,7116.278895,7116,Morley Primary School (approx ~7116 m),,,,TRUE,44.92373898
+West Swan,6055,Secondary,John Forrest Secondary College,TRUE,5920.639208,5921,John Forrest Secondary College (approx ~5921 m),,,,TRUE,44.92373898
+Westminster,6061,Primary,Nollamara Primary School,TRUE,293.8242929,294,Nollamara Primary School (approx ~294 m),,,,TRUE,10.54528511
+Westminster,6061,Secondary,Balcatta SHS,TRUE,1916.951708,1917,"Carine SHS, Balcatta SHS (approx ~1917 m)",,,,TRUE,10.54528511
+Westminster,6061,Secondary,Carine SHS,TRUE,1916.951708,1917,"Carine SHS, Balcatta SHS (approx ~1917 m)",,,,TRUE,10.54528511
+White Gum Valley,6162,Primary,Manning Primary School,TRUE,7846.804291,7847,Manning Primary School (approx ~7847 m),R40 (0.0%),R40,0,TRUE,8.614872633
+White Gum Valley,6162,Secondary,Frenantle College,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College",R40 (0.0%),R40,0,TRUE,8.614872633
+White Gum Valley,6162,Secondary,John Curtin College of the Arts,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College",R40 (0.0%),R40,0,TRUE,8.614872633
+White Gum Valley,6162,Secondary,Melville SHS,FALSE,,,"John Curtin College of the Arts, Melville SHS, Frenantle College",R40 (0.0%),R40,0,TRUE,8.614872633
+Whiteman,6068,Primary,Morley Primary School,TRUE,2908.508145,2909,Morley Primary School (approx ~2909 m),,,,TRUE,83.41313529
+Whiteman,6068,Secondary,John Forrest Secondary College,TRUE,4599.613691,4600,John Forrest Secondary College (approx ~4600 m),,,,TRUE,83.41313529
+Willagee,6156,Primary,Manning Primary School,TRUE,4250.492245,4250,Manning Primary School (approx ~4250 m),"R40/60 (12.3%), R25 (7.0%), R20/60 (4.9%), R60 (2.6%)",R40/60,12.3,FALSE,0
+Willagee,6156,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R40/60 (12.3%), R25 (7.0%), R20/60 (4.9%), R60 (2.6%)",R40/60,12.3,FALSE,0
+Willagee,6156,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R40/60 (12.3%), R25 (7.0%), R20/60 (4.9%), R60 (2.6%)",R40/60,12.3,FALSE,0
+Willetton,6155,Primary,Manning Primary School,TRUE,974.1402972,974,Manning Primary School (approx ~974 m),"R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Willetton,6155,Secondary,Leeming SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Willetton,6155,Secondary,Leeming Senior High School,FALSE,,,Leeming Senior High School,"R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Willetton,6155,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Willetton,6155,Secondary,Willeton SHS,FALSE,,,"Willeton SHS, Leeming SHS","R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Willetton,6155,Secondary,Willeton Senior High School,FALSE,,,Willeton Senior High School,"R20 (19.4%), R40 (2.8%), R30 (0.7%)",R20,19.4,TRUE,5.529574558
+Wilson,6107,Primary,Curtin PS,TRUE,507.1329824,507,"Curtin PS, Manning PS (approx ~507 m)","R25 (7.2%), R60 (0.4%), R80 (0.1%), R20 (0.0%)",R25,7.2,TRUE,28.83601513
+Wilson,6107,Primary,Manning PS,TRUE,507.1329824,507,"Curtin PS, Manning PS (approx ~507 m)","R25 (7.2%), R60 (0.4%), R80 (0.1%), R20 (0.0%)",R25,7.2,TRUE,28.83601513
+Wilson,6107,Secondary,Como Secondary College,FALSE,,,Como Secondary College,"R25 (7.2%), R60 (0.4%), R80 (0.1%), R20 (0.0%)",R25,7.2,TRUE,28.83601513
+Wilson,6107,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R25 (7.2%), R60 (0.4%), R80 (0.1%), R20 (0.0%)",R25,7.2,TRUE,28.83601513
+Winthrop,6150,Primary,Manning Primary School,TRUE,2137.823051,2138,Manning Primary School (approx ~2138 m),"R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Applecross SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Applecross SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Applecross Senior High School,FALSE,,,Applecross Senior High School,"R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Leeming SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Melville SHS,FALSE,,,"Applecross SHS, Melville SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Melville Senior High School,FALSE,,,Melville Senior High School,"R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Leeming SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Rossmoyne SHS,FALSE,,,"Rossmoyne SHS, Applecross SHS","R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Winthrop,6150,Secondary,Rossmoyne Senior High School,FALSE,,,Rossmoyne Senior High School,"R20 (25.4%), R40 (0.8%)",R20,25.4,TRUE,19.5278005
+Woodbridge,6056,Primary,Bayswater Primary School,TRUE,6022.487557,6022,Bayswater Primary School (approx ~6022 m),"R20/50 (8.1%), R20 (6.5%), R40 (2.0%), R60/100 (1.7%), R60/80 (1.6%), R60 (0.6%), R40/50 (0.6%)",R20/50,8.1,TRUE,36.56904922
+Woodbridge,6056,Secondary,John Forrest Secondary College,TRUE,3928.769556,3929,John Forrest Secondary College (approx ~3929 m),"R20/50 (8.1%), R20 (6.5%), R40 (2.0%), R60/100 (1.7%), R60/80 (1.6%), R60 (0.6%), R40/50 (0.6%)",R20/50,8.1,TRUE,36.56904922
+Woodlands,6018,Primary,Balcatta PS,TRUE,1072.134772,1072,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1072 m)",,R20,,TRUE,3.216181182
+Woodlands,6018,Primary,Osborne PS,TRUE,1072.134772,1072,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1072 m)",,R20,,TRUE,3.216181182
+Woodlands,6018,Primary,West Balcatta PS,TRUE,1072.134772,1072,"Balcatta PS, West Balcatta PS, Osborne PS (approx ~1072 m)",,R20,,TRUE,3.216181182
+Woodlands,6018,Secondary,Balcatta SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R20,,TRUE,3.216181182
+Woodlands,6018,Secondary,Churchlands SHS,FALSE,,,"Churchlands SHS, Balcatta SHS",,R20,,TRUE,3.216181182
+Woodlands,6018,Secondary,Churchlands Senior High School,FALSE,,,Churchlands Senior High School,,R20,,TRUE,3.216181182
+Woodvale,6026,Primary,Nollamara Primary School,TRUE,8700.43982,8700,Nollamara Primary School (approx ~8700 m),"R20 (10.1%), R20/40 (2.6%), R30 (0.7%), R20/30 (0.7%), R40 (0.6%), R20/60 (0.5%)",R20,10.1,TRUE,51.85188642
+Woodvale,6026,Secondary,Duncraig Senior High School,TRUE,2288.024551,2288,Duncraig Senior High School (approx ~2288 m),"R20 (10.1%), R20/40 (2.6%), R30 (0.7%), R20/30 (0.7%), R40 (0.6%), R20/60 (0.5%)",R20,10.1,TRUE,51.85188642
+Wungong,6112,Secondary,Leeming Senior High School,TRUE,15435.30556,15435,Leeming Senior High School (approx ~15435 m),,,,TRUE,100
+Yangebup,6164,Primary,Manning Primary School,TRUE,8800.666732,8801,Manning Primary School (approx ~8801 m),"R20 (40.8%), R40 (1.2%), R25 (0.4%), R30 (0.1%)",R20,40.8,TRUE,31.75584226
+Yangebup,6164,Secondary,Lakelands SHS,TRUE,2708.053253,2708,"Leeming SHS, Lakelands SHS (approx ~2708 m)","R20 (40.8%), R40 (1.2%), R25 (0.4%), R30 (0.1%)",R20,40.8,TRUE,31.75584226
+Yangebup,6164,Secondary,Leeming SHS,TRUE,2708.053253,2708,"Leeming SHS, Lakelands SHS (approx ~2708 m)","R20 (40.8%), R40 (1.2%), R25 (0.4%), R30 (0.1%)",R20,40.8,TRUE,31.75584226
+Yokine,6060,Primary,Coolbinia PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS",,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Coolbinia Primary School,FALSE,,,Coolbinia Primary School,,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Kyilla PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS",,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Nollamara PS,FALSE,,,"Tuart Hill PS, Nollamara PS",,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Nollamara Primary School,FALSE,,,Nollamara Primary School,,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Sutherland Dianella Primary School,FALSE,,,Sutherland Dianella Primary School,,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Coolbinia PS, Kyilla PS",,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Tuart Hill PS,FALSE,,,"Tuart Hill PS, Nollamara PS",,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Tuart Hill Primary School,FALSE,,,Tuart Hill Primary School,,R30,,TRUE,0.538507185
+Yokine,6060,Primary,Yokine Primary School,FALSE,,,Yokine Primary School,,R30,,TRUE,0.538507185
+Yokine,6060,Secondary,Bob Hawke College,FALSE,,,"Bob Hawke College, Dianella Secondary College",,R30,,TRUE,0.538507185
+Yokine,6060,Secondary,Dianella Secondary College,FALSE,,,"Bob Hawke College, Dianella Secondary College",,R30,,TRUE,0.538507185
+Yokine,6060,Secondary,John Forrest Secondary College,FALSE,,,John Forrest Secondary College,,R30,,TRUE,0.538507185
+Yokine,6060,Secondary,Mount Lawley Senior High School,FALSE,,,Mount Lawley Senior High School,,R30,,TRUE,0.538507185
